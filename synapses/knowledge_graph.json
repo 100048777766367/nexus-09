@@ -11,7 +11,10 @@
         "Valley",
         "The Valley",
         "Km2)",
-        "garden, part"
+        "garden, part",
+        "Newbern,",
+        "Newbern town",
+        "census, the"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -19,6 +22,8 @@
         "The ==[origins]==> American Social",
         "Łęczeszyce: ==[łęczeszyce]==> village the",
         "Valley ==[gardens:]==> The Valley",
-        "Km2) ==[woodland]==> garden, part"
+        "Km2) ==[woodland]==> garden, part",
+        "Newbern, ==[tennessee:]==> Newbern town",
+        "The ==[2020]==> census, the"
     ]
 }

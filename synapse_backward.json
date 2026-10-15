@@ -4,14 +4,14 @@
         "identity": "100048777766367/nexus-09",
         "role": "APEX_HYPER_NEXUS",
         "generation": "F9_CỬU_TRÙNG_TỔNG_HỢP",
-        "epoch": 4,
+        "epoch": 5,
         "architecture": "4_Hyper_Lobes_Dipolar_Synthesis"
     },
-    "epoch": 4,
-    "timestamp": 1792076410,
+    "epoch": 5,
+    "timestamp": 1792076452,
     "gradients": [
-        -0.021,
-        0.0456
+        0.0203,
+        -0.0439
     ],
     "gossip_network": [
         "100048777766367/nexus-08",
@@ -34,5 +34,5 @@
         "100048777766367/nexus-06",
         "100048777766367/shunya"
     ],
-    "quantum_cid": "6e1f832ba03874f26cb16e69b2836eee662b81216f6be79a6bf9f20dc7e32a54dd549b74e34b7c8793af35aa823e6100e4b4c46a5b3921a6a1650fc7b2e6733e"
+    "quantum_cid": "ba56b69247734217255950ec0d7d227613af6df383f23e09a4171475754ec646cddbe5f9468b9ff8db43642019b94c85cd02748180c1122f1b838016504e1c03"
 }

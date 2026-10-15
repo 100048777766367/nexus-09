@@ -7,12 +7,18 @@
         "The",
         "American Social",
         "Łęczeszyce:",
-        "village the"
+        "village the",
+        "Valley",
+        "The Valley",
+        "Km2)",
+        "garden, part"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
         "She ==[worked]==> journalist for",
         "The ==[origins]==> American Social",
-        "Łęczeszyce: ==[łęczeszyce]==> village the"
+        "Łęczeszyce: ==[łęczeszyce]==> village the",
+        "Valley ==[gardens:]==> The Valley",
+        "Km2) ==[woodland]==> garden, part"
     ]
 }

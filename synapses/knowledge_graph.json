@@ -5,11 +5,14 @@
         "She",
         "journalist for",
         "The",
-        "American Social"
+        "American Social",
+        "Łęczeszyce:",
+        "village the"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
         "She ==[worked]==> journalist for",
-        "The ==[origins]==> American Social"
+        "The ==[origins]==> American Social",
+        "Łęczeszyce: ==[łęczeszyce]==> village the"
     ]
 }

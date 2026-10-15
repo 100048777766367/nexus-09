@@ -14,7 +14,10 @@
         "garden, part",
         "Newbern,",
         "Newbern town",
-        "census, the"
+        "census, the",
+        "Asaduzzaman",
+        "lawyer and",
+        "minister law,"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -24,6 +27,8 @@
         "Valley ==[gardens:]==> The Valley",
         "Km2) ==[woodland]==> garden, part",
         "Newbern, ==[tennessee:]==> Newbern town",
-        "The ==[2020]==> census, the"
+        "The ==[2020]==> census, the",
+        "Asaduzzaman ==[bangladeshi]==> lawyer and",
+        "The ==[incumbent]==> minister law,"
     ]
 }

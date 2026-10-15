@@ -3,10 +3,13 @@
         "Maria-pia",
         "Maria-Pia Boëthius",
         "She",
-        "journalist for"
+        "journalist for",
+        "The",
+        "American Social"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
-        "She ==[worked]==> journalist for"
+        "She ==[worked]==> journalist for",
+        "The ==[origins]==> American Social"
     ]
 }

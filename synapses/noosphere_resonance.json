@@ -1,6 +1,6 @@
 {
-    "coherence_index": 0.9111,
-    "second_order_coupling": 0.8165,
-    "harmonic_decision": 0.5302,
-    "active_oscillators": 4
+    "coherence_index": 0.4944,
+    "second_order_coupling": 0.2033,
+    "harmonic_decision": 0.5538,
+    "active_oscillators": 17
 }

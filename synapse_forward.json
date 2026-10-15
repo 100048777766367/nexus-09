@@ -1,0 +1,92 @@
+{
+    "contract": "bodhi.nexus.v9",
+    "node_dna": {
+        "identity": "100048777766367/nexus-09",
+        "role": "APEX_HYPER_NEXUS",
+        "generation": "F9_CỬU_TRÙNG_TỔNG_HỢP",
+        "epoch": 1,
+        "architecture": "4_Hyper_Lobes_Dipolar_Synthesis"
+    },
+    "epoch": 1,
+    "timestamp": 1792076274,
+    "decision": 0.4949,
+    "transmuted_signals": {
+        "retina": {
+            "focal_matrix_2d": [
+                [
+                    0.4949,
+                    0.5051
+                ],
+                [
+                    0.0202,
+                    -0.0423
+                ]
+            ],
+            "zoom": 1.0051
+        },
+        "cochlea": {
+            "bandpass_filter_1d": [
+                9905.8455,
+                14149.9557
+            ],
+            "freq_cutoff": 9898.0
+        },
+        "tactile": {
+            "nociceptive_threshold": 0.0102,
+            "pain_gain": 0.5
+        },
+        "olfactory": {
+            "gpcr_affinity": [
+                9905.8455,
+                14149.9557,
+                30887.8685,
+                23134.5121
+            ],
+            "toxicity_alert": false
+        },
+        "motor": {
+            "action_vector": [
+                -0.0051,
+                0.0051,
+                -0.221
+            ],
+            "state": "relax"
+        },
+        "neuron": {
+            "stigmergic_trail": [
+                0.0202,
+                -0.0423
+            ],
+            "cross_plasticity": 0.0247
+        },
+        "shunya": {
+            "vacuum_decay": 0.999,
+            "collapse_to_zero": true
+        },
+        "monad": {
+            "monadic_reflection": 0.4949
+        }
+    },
+    "gossip_network": [
+        "100048777766367/nexus-08",
+        "100048777766367/nexus-07",
+        "100048777766367/neuron",
+        "100048777766367/seed",
+        "100048777766367/motor",
+        "100048777766367/retina",
+        "100048777766367/cochlea",
+        "100048777766367/tactile",
+        "100048777766367/olfactory",
+        "100048777766367/seed-01",
+        "100048777766367/seed-02",
+        "100048777766367/seed-bodhi",
+        "100048777766367/seed-bodhi-02",
+        "100048777766367/monad",
+        "100048777766367/monad-01",
+        "100048777766367/monad-02",
+        "100048777766367/genome",
+        "100048777766367/nexus-06",
+        "100048777766367/shunya"
+    ],
+    "quantum_cid": "a2fb617a12de94c585ad399693d33d6f9bede5b1d40a1361f5150ab6534cfe7a6ef79588fb0a702ae4cf7c498f29f7bf3459d17d16ba038d8251eb716822f976"
+}

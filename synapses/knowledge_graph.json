@@ -1,0 +1,12 @@
+{
+    "nodes": [
+        "Maria-pia",
+        "Maria-Pia Boëthius",
+        "She",
+        "journalist for"
+    ],
+    "edges": [
+        "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
+        "She ==[worked]==> journalist for"
+    ]
+}

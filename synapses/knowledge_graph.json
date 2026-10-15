@@ -17,7 +17,9 @@
         "census, the",
         "Asaduzzaman",
         "lawyer and",
-        "minister law,"
+        "minister law,",
+        "You",
+        "Me: You"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -29,6 +31,7 @@
         "Newbern, ==[tennessee:]==> Newbern town",
         "The ==[2020]==> census, the",
         "Asaduzzaman ==[bangladeshi]==> lawyer and",
-        "The ==[incumbent]==> minister law,"
+        "The ==[incumbent]==> minister law,",
+        "You ==[love]==> Me: You"
     ]
 }

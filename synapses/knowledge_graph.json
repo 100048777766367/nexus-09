@@ -19,7 +19,11 @@
         "lawyer and",
         "minister law,",
         "You",
-        "Me: You"
+        "Me: You",
+        "Pindi",
+        "Pindi Balochan",
+        "Situated",
+        "outskirts Faridkot,"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -32,6 +36,8 @@
         "The ==[2020]==> census, the",
         "Asaduzzaman ==[bangladeshi]==> lawyer and",
         "The ==[incumbent]==> minister law,",
-        "You ==[love]==> Me: You"
+        "You ==[love]==> Me: You",
+        "Pindi ==[balochan:]==> Pindi Balochan",
+        "Situated ==[the]==> outskirts Faridkot,"
     ]
 }

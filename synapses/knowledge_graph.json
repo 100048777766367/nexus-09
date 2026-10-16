@@ -27,7 +27,9 @@
         "Wilhelm",
         "(pilot): Hauptmann",
         "Reinhard",
-        "flying ace"
+        "flying ace",
+        "Mary",
+        "Church, Launceston:"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -44,6 +46,7 @@
         "Pindi ==[balochan:]==> Pindi Balochan",
         "Situated ==[the]==> outskirts Faridkot,",
         "Wilhelm ==[reinhard]==> (pilot): Hauptmann",
-        "Reinhard ==[became]==> flying ace"
+        "Reinhard ==[became]==> flying ace",
+        "Mary ==[magdalene's]==> Church, Launceston:"
     ]
 }

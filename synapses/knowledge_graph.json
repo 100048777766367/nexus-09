@@ -23,7 +23,11 @@
         "Pindi",
         "Pindi Balochan",
         "Situated",
-        "outskirts Faridkot,"
+        "outskirts Faridkot,",
+        "Wilhelm",
+        "(pilot): Hauptmann",
+        "Reinhard",
+        "flying ace"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -38,6 +42,8 @@
         "The ==[incumbent]==> minister law,",
         "You ==[love]==> Me: You",
         "Pindi ==[balochan:]==> Pindi Balochan",
-        "Situated ==[the]==> outskirts Faridkot,"
+        "Situated ==[the]==> outskirts Faridkot,",
+        "Wilhelm ==[reinhard]==> (pilot): Hauptmann",
+        "Reinhard ==[became]==> flying ace"
     ]
 }

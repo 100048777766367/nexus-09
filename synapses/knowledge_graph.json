@@ -29,7 +29,10 @@
         "Reinhard",
         "flying ace",
         "Mary",
-        "Church, Launceston:"
+        "Church, Launceston:",
+        "Rosanna",
+        "Rosanna Bella",
+        "known member"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -47,6 +50,8 @@
         "Situated ==[the]==> outskirts Faridkot,",
         "Wilhelm ==[reinhard]==> (pilot): Hauptmann",
         "Reinhard ==[became]==> flying ace",
-        "Mary ==[magdalene's]==> Church, Launceston:"
+        "Mary ==[magdalene's]==> Church, Launceston:",
+        "Rosanna ==[munter:]==> Rosanna Bella",
+        "She ==[best]==> known member"
     ]
 }

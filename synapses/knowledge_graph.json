@@ -36,7 +36,11 @@
         "List",
         "flybys: List",
         "Mohammad",
-        "Ansarifard: Mohammad"
+        "Ansarifard: Mohammad",
+        "Toxic",
+        "Toxic waste",
+        "Mostly",
+        "industry, consumer"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -58,6 +62,8 @@
         "Rosanna ==[munter:]==> Rosanna Bella",
         "She ==[best]==> known member",
         "List ==[earth]==> flybys: List",
-        "Mohammad ==[hassan]==> Ansarifard: Mohammad"
+        "Mohammad ==[hassan]==> Ansarifard: Mohammad",
+        "Toxic ==[waste:]==> Toxic waste",
+        "Mostly ==[generated]==> industry, consumer"
     ]
 }

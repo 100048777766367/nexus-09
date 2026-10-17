@@ -34,7 +34,9 @@
         "Rosanna Bella",
         "known member",
         "List",
-        "flybys: List"
+        "flybys: List",
+        "Mohammad",
+        "Ansarifard: Mohammad"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -55,6 +57,7 @@
         "Mary ==[magdalene's]==> Church, Launceston:",
         "Rosanna ==[munter:]==> Rosanna Bella",
         "She ==[best]==> known member",
-        "List ==[earth]==> flybys: List"
+        "List ==[earth]==> flybys: List",
+        "Mohammad ==[hassan]==> Ansarifard: Mohammad"
     ]
 }

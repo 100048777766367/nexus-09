@@ -32,7 +32,9 @@
         "Church, Launceston:",
         "Rosanna",
         "Rosanna Bella",
-        "known member"
+        "known member",
+        "List",
+        "flybys: List"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -52,6 +54,7 @@
         "Reinhard ==[became]==> flying ace",
         "Mary ==[magdalene's]==> Church, Launceston:",
         "Rosanna ==[munter:]==> Rosanna Bella",
-        "She ==[best]==> known member"
+        "She ==[best]==> known member",
+        "List ==[earth]==> flybys: List"
     ]
 }

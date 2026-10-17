@@ -46,7 +46,10 @@
         "Was",
         "mayor Chicago",
         "Had",
-        "served"
+        "served",
+        "Cyclone",
+        "Severe Cyclonic",
+        "strongest"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -73,6 +76,8 @@
         "Mostly ==[generated]==> industry, consumer",
         "William ==[emmett]==> Dever: William",
         "Was ==[the]==> mayor Chicago",
-        "Had ==[previously]==> served"
+        "Had ==[previously]==> served",
+        "Cyclone ==[asani:]==> Severe Cyclonic",
+        "Was ==[the]==> strongest"
     ]
 }

@@ -40,7 +40,13 @@
         "Toxic",
         "Toxic waste",
         "Mostly",
-        "industry, consumer"
+        "industry, consumer",
+        "William",
+        "Dever: William",
+        "Was",
+        "mayor Chicago",
+        "Had",
+        "served"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -64,6 +70,9 @@
         "List ==[earth]==> flybys: List",
         "Mohammad ==[hassan]==> Ansarifard: Mohammad",
         "Toxic ==[waste:]==> Toxic waste",
-        "Mostly ==[generated]==> industry, consumer"
+        "Mostly ==[generated]==> industry, consumer",
+        "William ==[emmett]==> Dever: William",
+        "Was ==[the]==> mayor Chicago",
+        "Had ==[previously]==> served"
     ]
 }

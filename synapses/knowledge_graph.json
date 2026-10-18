@@ -49,7 +49,11 @@
         "served",
         "Cyclone",
         "Severe Cyclonic",
-        "strongest"
+        "strongest",
+        "Silver(ii)",
+        "Silver(II) fluoride",
+        "Rare",
+        "silver(II) compound"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -78,6 +82,8 @@
         "Was ==[the]==> mayor Chicago",
         "Had ==[previously]==> served",
         "Cyclone ==[asani:]==> Severe Cyclonic",
-        "Was ==[the]==> strongest"
+        "Was ==[the]==> strongest",
+        "Silver(ii) ==[fluoride:]==> Silver(II) fluoride",
+        "Rare ==[example]==> silver(II) compound"
     ]
 }

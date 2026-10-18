@@ -63,7 +63,9 @@
         "Teri",
         "Teri Marie",
         "Former",
-        "the University"
+        "the University",
+        "Sierra",
+        "Guara Natural"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -99,6 +101,7 @@
         "Served ==[democratic]==> member for",
         "Wes ==[mccauley:]==> Wesley McCauley",
         "Teri ==[harrison:]==> Teri Marie",
-        "Former ==[student]==> the University"
+        "Former ==[student]==> the University",
+        "Sierra ==[cañones]==> Guara Natural"
     ]
 }

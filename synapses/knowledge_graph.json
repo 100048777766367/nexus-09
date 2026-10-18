@@ -59,7 +59,11 @@
         "Served",
         "member for",
         "Wes",
-        "Wesley McCauley"
+        "Wesley McCauley",
+        "Teri",
+        "Teri Marie",
+        "Former",
+        "the University"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -93,6 +97,8 @@
         "Rare ==[example]==> silver(II) compound",
         "Hurley ==[was]==> American politician",
         "Served ==[democratic]==> member for",
-        "Wes ==[mccauley:]==> Wesley McCauley"
+        "Wes ==[mccauley:]==> Wesley McCauley",
+        "Teri ==[harrison:]==> Teri Marie",
+        "Former ==[student]==> the University"
     ]
 }

@@ -53,7 +53,11 @@
         "Silver(ii)",
         "Silver(II) fluoride",
         "Rare",
-        "silver(II) compound"
+        "silver(II) compound",
+        "Hurley",
+        "American politician",
+        "Served",
+        "member for"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -84,6 +88,8 @@
         "Cyclone ==[asani:]==> Severe Cyclonic",
         "Was ==[the]==> strongest",
         "Silver(ii) ==[fluoride:]==> Silver(II) fluoride",
-        "Rare ==[example]==> silver(II) compound"
+        "Rare ==[example]==> silver(II) compound",
+        "Hurley ==[was]==> American politician",
+        "Served ==[democratic]==> member for"
     ]
 }

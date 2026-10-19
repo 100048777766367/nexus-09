@@ -65,7 +65,9 @@
         "Former",
         "the University",
         "Sierra",
-        "Guara Natural"
+        "Guara Natural",
+        "Bigfin",
+        "squid: Sepioteuthis"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -102,6 +104,7 @@
         "Wes ==[mccauley:]==> Wesley McCauley",
         "Teri ==[harrison:]==> Teri Marie",
         "Former ==[student]==> the University",
-        "Sierra ==[cañones]==> Guara Natural"
+        "Sierra ==[cañones]==> Guara Natural",
+        "Bigfin ==[reef]==> squid: Sepioteuthis"
     ]
 }

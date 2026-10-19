@@ -1,10 +1,10 @@
 {
-    "bodhi_score_9d": 0.9779,
+    "bodhi_score_9d": 0.9735,
     "dimensions": {
-        "ahimsa": 0.9967,
+        "ahimsa": 0.9899,
         "prajna": 1.0,
-        "sunyata": 0.9956,
-        "karuna": 0.897,
+        "sunyata": 0.9866,
+        "karuna": 0.8909,
         "upaya": 1.0
     },
     "veto_enacted": false

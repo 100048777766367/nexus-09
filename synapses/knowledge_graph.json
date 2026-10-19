@@ -67,7 +67,9 @@
         "Sierra",
         "Guara Natural",
         "Bigfin",
-        "squid: Sepioteuthis"
+        "squid: Sepioteuthis",
+        "1882",
+        "White Stockings"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -105,6 +107,7 @@
         "Teri ==[harrison:]==> Teri Marie",
         "Former ==[student]==> the University",
         "Sierra ==[cañones]==> Guara Natural",
-        "Bigfin ==[reef]==> squid: Sepioteuthis"
+        "Bigfin ==[reef]==> squid: Sepioteuthis",
+        "1882 ==[chicago]==> White Stockings"
     ]
 }

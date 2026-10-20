@@ -80,7 +80,9 @@
         "Rebelle the",
         "was released",
         "Chaos",
-        "Chaos Compilation"
+        "Chaos Compilation",
+        "Acanthoscurria",
+        "Acanthoscurria maga"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -125,6 +127,7 @@
         "First ==[came]==> public attention",
         "Rebelle ==[(fragrance):]==> Rebelle the",
         "The ==[fragrance]==> was released",
-        "Chaos ==[compilation:]==> Chaos Compilation"
+        "Chaos ==[compilation:]==> Chaos Compilation",
+        "Acanthoscurria ==[maga:]==> Acanthoscurria maga"
     ]
 }

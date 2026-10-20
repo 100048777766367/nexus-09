@@ -78,7 +78,9 @@
         "public attention",
         "Rebelle",
         "Rebelle the",
-        "was released"
+        "was released",
+        "Chaos",
+        "Chaos Compilation"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -122,6 +124,7 @@
         "Douglas ==[booth:]==> Douglas John",
         "First ==[came]==> public attention",
         "Rebelle ==[(fragrance):]==> Rebelle the",
-        "The ==[fragrance]==> was released"
+        "The ==[fragrance]==> was released",
+        "Chaos ==[compilation:]==> Chaos Compilation"
     ]
 }

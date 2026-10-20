@@ -71,7 +71,11 @@
         "1882",
         "White Stockings",
         "Fermoy",
-        "Fermoy Barracks"
+        "Fermoy Barracks",
+        "Douglas",
+        "Douglas John",
+        "First",
+        "public attention"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -111,6 +115,8 @@
         "Sierra ==[cañones]==> Guara Natural",
         "Bigfin ==[reef]==> squid: Sepioteuthis",
         "1882 ==[chicago]==> White Stockings",
-        "Fermoy ==[barracks:]==> Fermoy Barracks"
+        "Fermoy ==[barracks:]==> Fermoy Barracks",
+        "Douglas ==[booth:]==> Douglas John",
+        "First ==[came]==> public attention"
     ]
 }

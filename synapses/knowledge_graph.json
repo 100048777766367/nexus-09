@@ -75,7 +75,10 @@
         "Douglas",
         "Douglas John",
         "First",
-        "public attention"
+        "public attention",
+        "Rebelle",
+        "Rebelle the",
+        "was released"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -117,6 +120,8 @@
         "1882 ==[chicago]==> White Stockings",
         "Fermoy ==[barracks:]==> Fermoy Barracks",
         "Douglas ==[booth:]==> Douglas John",
-        "First ==[came]==> public attention"
+        "First ==[came]==> public attention",
+        "Rebelle ==[(fragrance):]==> Rebelle the",
+        "The ==[fragrance]==> was released"
     ]
 }

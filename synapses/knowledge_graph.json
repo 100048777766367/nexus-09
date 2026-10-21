@@ -88,7 +88,10 @@
         "Hervé",
         "Hervé Garel",
         "Most",
-        "won the"
+        "won the",
+        "Jan",
+        "Jan Kanthak",
+        "Andrzej Kanthak"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -137,6 +140,8 @@
         "Acanthoscurria ==[maga:]==> Acanthoscurria maga",
         "Taanayel: ==[taanayel,]==> also transliterated",
         "Hervé ==[garel:]==> Hervé Garel",
-        "Most ==[notably]==> won the"
+        "Most ==[notably]==> won the",
+        "Jan ==[kanthak:]==> Jan Kanthak",
+        "The ==[son]==> Andrzej Kanthak"
     ]
 }

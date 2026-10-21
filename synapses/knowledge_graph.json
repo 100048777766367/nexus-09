@@ -82,7 +82,9 @@
         "Chaos",
         "Chaos Compilation",
         "Acanthoscurria",
-        "Acanthoscurria maga"
+        "Acanthoscurria maga",
+        "Taanayel:",
+        "also transliterated"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -128,6 +130,7 @@
         "Rebelle ==[(fragrance):]==> Rebelle the",
         "The ==[fragrance]==> was released",
         "Chaos ==[compilation:]==> Chaos Compilation",
-        "Acanthoscurria ==[maga:]==> Acanthoscurria maga"
+        "Acanthoscurria ==[maga:]==> Acanthoscurria maga",
+        "Taanayel: ==[taanayel,]==> also transliterated"
     ]
 }

@@ -93,7 +93,9 @@
         "Jan Kanthak",
         "Andrzej Kanthak",
         "Priceless",
-        "album): Priceless"
+        "album): Priceless",
+        "Marybeth",
+        "Marybeth Peters"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -145,6 +147,7 @@
         "Most ==[notably]==> won the",
         "Jan ==[kanthak:]==> Jan Kanthak",
         "The ==[son]==> Andrzej Kanthak",
-        "Priceless ==[(frankie]==> album): Priceless"
+        "Priceless ==[(frankie]==> album): Priceless",
+        "Marybeth ==[peters:]==> Marybeth Peters"
     ]
 }

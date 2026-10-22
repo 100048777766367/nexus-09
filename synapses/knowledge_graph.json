@@ -97,7 +97,9 @@
         "Marybeth",
         "Marybeth Peters",
         "Nancy",
-        "(All Children):"
+        "(All Children):",
+        "Finnish",
+        "Grand Prix:"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -151,6 +153,7 @@
         "The ==[son]==> Andrzej Kanthak",
         "Priceless ==[(frankie]==> album): Priceless",
         "Marybeth ==[peters:]==> Marybeth Peters",
-        "Nancy ==[grant]==> (All Children):"
+        "Nancy ==[grant]==> (All Children):",
+        "Finnish ==[motorcycle]==> Grand Prix:"
     ]
 }

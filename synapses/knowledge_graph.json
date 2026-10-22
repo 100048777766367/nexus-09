@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Maria-pia",
-        "Maria-Pia Boëthius",
-        "She",
-        "journalist for",
         "The",
         "American Social",
         "Łęczeszyce:",
@@ -99,7 +95,11 @@
         "Nancy",
         "(All Children):",
         "Finnish",
-        "Grand Prix:"
+        "Grand Prix:",
+        "Betsiboka",
+        "The Betsiboka",
+        "Flows",
+        "and empti"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -154,6 +154,8 @@
         "Priceless ==[(frankie]==> album): Priceless",
         "Marybeth ==[peters:]==> Marybeth Peters",
         "Nancy ==[grant]==> (All Children):",
-        "Finnish ==[motorcycle]==> Grand Prix:"
+        "Finnish ==[motorcycle]==> Grand Prix:",
+        "Betsiboka ==[river:]==> The Betsiboka",
+        "Flows ==[northwestward]==> and empti"
     ]
 }

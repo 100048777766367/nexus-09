@@ -95,7 +95,9 @@
         "Priceless",
         "album): Priceless",
         "Marybeth",
-        "Marybeth Peters"
+        "Marybeth Peters",
+        "Nancy",
+        "(All Children):"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -148,6 +150,7 @@
         "Jan ==[kanthak:]==> Jan Kanthak",
         "The ==[son]==> Andrzej Kanthak",
         "Priceless ==[(frankie]==> album): Priceless",
-        "Marybeth ==[peters:]==> Marybeth Peters"
+        "Marybeth ==[peters:]==> Marybeth Peters",
+        "Nancy ==[grant]==> (All Children):"
     ]
 }

@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Newbern town",
-        "census, the",
         "Asaduzzaman",
         "lawyer and",
         "minister law,",
@@ -99,7 +97,9 @@
         "Mall: The",
         "Sidney",
         "Brown",
-        "First National"
+        "First National",
+        "Under",
+        "Skies: Under"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -161,6 +161,7 @@
         "Power ==[and]==> Control: Domestic",
         "Beltway ==[plaza]==> Mall: The",
         "Was ==[developed]==> Sidney",
-        "Brown ==[and]==> First National"
+        "Brown ==[and]==> First National",
+        "Under ==[arizona]==> Skies: Under"
     ]
 }

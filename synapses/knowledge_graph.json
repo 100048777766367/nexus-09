@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Łęczeszyce:",
-        "village the",
         "Valley",
         "The Valley",
         "Km2)",
@@ -99,7 +97,9 @@
         "Flows",
         "and empti",
         "Garden",
-        "Field Secondary:"
+        "Field Secondary:",
+        "Power",
+        "Control: Domestic"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -157,6 +157,7 @@
         "Finnish ==[motorcycle]==> Grand Prix:",
         "Betsiboka ==[river:]==> The Betsiboka",
         "Flows ==[northwestward]==> and empti",
-        "Garden ==[city–mitchel]==> Field Secondary:"
+        "Garden ==[city–mitchel]==> Field Secondary:",
+        "Power ==[and]==> Control: Domestic"
     ]
 }

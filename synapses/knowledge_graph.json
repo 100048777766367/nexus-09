@@ -1,10 +1,5 @@
 {
     "nodes": [
-        "Valley",
-        "The Valley",
-        "Km2)",
-        "garden, part",
-        "Newbern,",
         "Newbern town",
         "census, the",
         "Asaduzzaman",
@@ -99,7 +94,12 @@
         "Garden",
         "Field Secondary:",
         "Power",
-        "Control: Domestic"
+        "Control: Domestic",
+        "Beltway",
+        "Mall: The",
+        "Sidney",
+        "Brown",
+        "First National"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -158,6 +158,9 @@
         "Betsiboka ==[river:]==> The Betsiboka",
         "Flows ==[northwestward]==> and empti",
         "Garden ==[city–mitchel]==> Field Secondary:",
-        "Power ==[and]==> Control: Domestic"
+        "Power ==[and]==> Control: Domestic",
+        "Beltway ==[plaza]==> Mall: The",
+        "Was ==[developed]==> Sidney",
+        "Brown ==[and]==> First National"
     ]
 }

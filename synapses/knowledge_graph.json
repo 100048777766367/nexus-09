@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Me: You",
-        "Pindi",
-        "Pindi Balochan",
-        "Situated",
         "outskirts Faridkot,",
         "Wilhelm",
         "(pilot): Hauptmann",
@@ -99,7 +95,11 @@
         "Wisconsin's",
         "districts: Wisconsin",
         "Philippe",
-        "Philippe Collas"
+        "Philippe Collas",
+        "Phosphoribosylaminoimidazole",
+        "The enzyme",
+        "21)",
+        "nucleotide biosynth"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -164,6 +164,8 @@
         "Brown ==[and]==> First National",
         "Under ==[arizona]==> Skies: Under",
         "Wisconsin's ==[congressional]==> districts: Wisconsin",
-        "Philippe ==[collas:]==> Philippe Collas"
+        "Philippe ==[collas:]==> Philippe Collas",
+        "Phosphoribosylaminoimidazole ==[carboxylase:]==> The enzyme",
+        "21) ==[involved]==> nucleotide biosynth"
     ]
 }

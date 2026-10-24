@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "outskirts Faridkot,",
-        "Wilhelm",
-        "(pilot): Hauptmann",
-        "Reinhard",
         "flying ace",
         "Mary",
         "Church, Launceston:",
@@ -99,7 +95,11 @@
         "Phosphoribosylaminoimidazole",
         "The enzyme",
         "21)",
-        "nucleotide biosynth"
+        "nucleotide biosynth",
+        "X:in:",
+        "multinational girl",
+        "Managed",
+        "Entertainment, the"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -166,6 +166,8 @@
         "Wisconsin's ==[congressional]==> districts: Wisconsin",
         "Philippe ==[collas:]==> Philippe Collas",
         "Phosphoribosylaminoimidazole ==[carboxylase:]==> The enzyme",
-        "21) ==[involved]==> nucleotide biosynth"
+        "21) ==[involved]==> nucleotide biosynth",
+        "X:in: ==[x:in]==> multinational girl",
+        "Managed ==[beby]==> Entertainment, the"
     ]
 }

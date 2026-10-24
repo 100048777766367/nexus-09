@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "minister law,",
-        "You",
         "Me: You",
         "Pindi",
         "Pindi Balochan",
@@ -99,7 +97,9 @@
         "Under",
         "Skies: Under",
         "Wisconsin's",
-        "districts: Wisconsin"
+        "districts: Wisconsin",
+        "Philippe",
+        "Philippe Collas"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -163,6 +163,7 @@
         "Was ==[developed]==> Sidney",
         "Brown ==[and]==> First National",
         "Under ==[arizona]==> Skies: Under",
-        "Wisconsin's ==[congressional]==> districts: Wisconsin"
+        "Wisconsin's ==[congressional]==> districts: Wisconsin",
+        "Philippe ==[collas:]==> Philippe Collas"
     ]
 }

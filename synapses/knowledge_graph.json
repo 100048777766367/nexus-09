@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Asaduzzaman",
-        "lawyer and",
         "minister law,",
         "You",
         "Me: You",
@@ -99,7 +97,9 @@
         "Brown",
         "First National",
         "Under",
-        "Skies: Under"
+        "Skies: Under",
+        "Wisconsin's",
+        "districts: Wisconsin"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -162,6 +162,7 @@
         "Beltway ==[plaza]==> Mall: The",
         "Was ==[developed]==> Sidney",
         "Brown ==[and]==> First National",
-        "Under ==[arizona]==> Skies: Under"
+        "Under ==[arizona]==> Skies: Under",
+        "Wisconsin's ==[congressional]==> districts: Wisconsin"
     ]
 }

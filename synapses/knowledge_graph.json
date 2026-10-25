@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Mohammad",
-        "Ansarifard: Mohammad",
         "Toxic",
         "Toxic waste",
         "Mostly",
@@ -99,7 +97,9 @@
         "Slovak",
         "Slovak Lines",
         "operating urban,",
-        "rena"
+        "rena",
+        "Battle",
+        "(312): The"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -173,6 +173,7 @@
         "The ==[album]==> was titled",
         "Slovak ==[lines:]==> Slovak Lines",
         "Slovak ==[company]==> operating urban,",
-        "Was ==[created]==> rena"
+        "Was ==[created]==> rena",
+        "Battle ==[brescia]==> (312): The"
     ]
 }

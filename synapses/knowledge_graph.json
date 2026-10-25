@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Rosanna Bella",
-        "known member",
-        "List",
-        "flybys: List",
         "Mohammad",
         "Ansarifard: Mohammad",
         "Toxic",
@@ -99,7 +95,11 @@
         "Carlo",
         "Nutten Carlo",
         "The",
-        "was titled"
+        "was titled",
+        "Slovak",
+        "Slovak Lines",
+        "operating urban,",
+        "rena"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -170,6 +170,9 @@
         "X:in: ==[x:in]==> multinational girl",
         "Managed ==[beby]==> Entertainment, the",
         "Carlo ==[cokxxx]==> Nutten Carlo",
-        "The ==[album]==> was titled"
+        "The ==[album]==> was titled",
+        "Slovak ==[lines:]==> Slovak Lines",
+        "Slovak ==[company]==> operating urban,",
+        "Was ==[created]==> rena"
     ]
 }

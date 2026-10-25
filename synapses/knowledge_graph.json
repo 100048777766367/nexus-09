@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "flying ace",
-        "Mary",
-        "Church, Launceston:",
-        "Rosanna",
         "Rosanna Bella",
         "known member",
         "List",
@@ -99,7 +95,11 @@
         "X:in:",
         "multinational girl",
         "Managed",
-        "Entertainment, the"
+        "Entertainment, the",
+        "Carlo",
+        "Nutten Carlo",
+        "The",
+        "was titled"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -168,6 +168,8 @@
         "Phosphoribosylaminoimidazole ==[carboxylase:]==> The enzyme",
         "21) ==[involved]==> nucleotide biosynth",
         "X:in: ==[x:in]==> multinational girl",
-        "Managed ==[beby]==> Entertainment, the"
+        "Managed ==[beby]==> Entertainment, the",
+        "Carlo ==[cokxxx]==> Nutten Carlo",
+        "The ==[album]==> was titled"
     ]
 }

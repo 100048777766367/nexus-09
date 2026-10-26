@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Mostly",
-        "industry, consumer",
         "William",
         "Dever: William",
         "Was",
@@ -99,7 +97,9 @@
         "Battle",
         "(312): The",
         "Hackensack",
-        "Terminal: Hackensack"
+        "Terminal: Hackensack",
+        "United",
+        "Security Council"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -175,6 +175,7 @@
         "Slovak ==[company]==> operating urban,",
         "Was ==[created]==> rena",
         "Battle ==[brescia]==> (312): The",
-        "Hackensack ==[bus]==> Terminal: Hackensack"
+        "Hackensack ==[bus]==> Terminal: Hackensack",
+        "United ==[nations]==> Security Council"
     ]
 }

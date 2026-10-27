@@ -1,11 +1,5 @@
 {
     "nodes": [
-        "strongest",
-        "Silver(ii)",
-        "Silver(II) fluoride",
-        "Rare",
-        "silver(II) compound",
-        "Hurley",
         "American politician",
         "Served",
         "member for",
@@ -99,7 +93,13 @@
         "San",
         "degli Scarioni,",
         "Lalon",
-        "Lalon Bangladeshi"
+        "Lalon Bangladeshi",
+        "Adit:",
+        "stulm",
+        "Horizontal",
+        "horizontal passage",
+        "Miners",
+        "use adits"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -180,6 +180,9 @@
         "Pubg: ==[battlegrounds:]==> PUBG: Battlegrounds,",
         "Dominique ==[farrugia:]==> Dominique Farrugia",
         "San ==[francesco]==> degli Scarioni,",
-        "Lalon ==[band:]==> Lalon Bangladeshi"
+        "Lalon ==[band:]==> Lalon Bangladeshi",
+        "Adit: ==[adit]==> stulm",
+        "Horizontal ==[nearly]==> horizontal passage",
+        "Miners ==[can]==> use adits"
     ]
 }

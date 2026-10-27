@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Had",
-        "served",
         "Cyclone",
         "Severe Cyclonic",
         "strongest",
@@ -99,7 +97,9 @@
         "Pubg:",
         "PUBG: Battlegrounds,",
         "Dominique",
-        "Dominique Farrugia"
+        "Dominique Farrugia",
+        "San",
+        "degli Scarioni,"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -178,6 +178,7 @@
         "Hackensack ==[bus]==> Terminal: Hackensack",
         "United ==[nations]==> Security Council",
         "Pubg: ==[battlegrounds:]==> PUBG: Battlegrounds,",
-        "Dominique ==[farrugia:]==> Dominique Farrugia"
+        "Dominique ==[farrugia:]==> Dominique Farrugia",
+        "San ==[francesco]==> degli Scarioni,"
     ]
 }

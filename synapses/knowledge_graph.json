@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Cyclone",
-        "Severe Cyclonic",
         "strongest",
         "Silver(ii)",
         "Silver(II) fluoride",
@@ -99,7 +97,9 @@
         "Dominique",
         "Dominique Farrugia",
         "San",
-        "degli Scarioni,"
+        "degli Scarioni,",
+        "Lalon",
+        "Lalon Bangladeshi"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -179,6 +179,7 @@
         "United ==[nations]==> Security Council",
         "Pubg: ==[battlegrounds:]==> PUBG: Battlegrounds,",
         "Dominique ==[farrugia:]==> Dominique Farrugia",
-        "San ==[francesco]==> degli Scarioni,"
+        "San ==[francesco]==> degli Scarioni,",
+        "Lalon ==[band:]==> Lalon Bangladeshi"
     ]
 }

@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "member for",
-        "Wes",
         "Wesley McCauley",
         "Teri",
         "Teri Marie",
@@ -99,7 +97,9 @@
         "Miners",
         "use adits",
         "Mercator",
-        "Mercator Cooper"
+        "Mercator Cooper",
+        "109th",
+        "Regiment (United"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -184,6 +184,7 @@
         "Adit: ==[adit]==> stulm",
         "Horizontal ==[nearly]==> horizontal passage",
         "Miners ==[can]==> use adits",
-        "Mercator ==[cooper:]==> Mercator Cooper"
+        "Mercator ==[cooper:]==> Mercator Cooper",
+        "109th ==[infantry]==> Regiment (United"
     ]
 }

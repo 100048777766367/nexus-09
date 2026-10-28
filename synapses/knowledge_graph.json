@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Wesley McCauley",
-        "Teri",
         "Teri Marie",
         "Former",
         "the University",
@@ -99,7 +97,9 @@
         "Mercator",
         "Mercator Cooper",
         "109th",
-        "Regiment (United"
+        "Regiment (United",
+        "Tripolium",
+        "Tripolium pannonicum,"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -185,6 +185,7 @@
         "Horizontal ==[nearly]==> horizontal passage",
         "Miners ==[can]==> use adits",
         "Mercator ==[cooper:]==> Mercator Cooper",
-        "109th ==[infantry]==> Regiment (United"
+        "109th ==[infantry]==> Regiment (United",
+        "Tripolium ==[pannonicum:]==> Tripolium pannonicum,"
     ]
 }

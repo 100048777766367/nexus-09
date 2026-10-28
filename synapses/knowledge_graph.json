@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "American politician",
-        "Served",
         "member for",
         "Wes",
         "Wesley McCauley",
@@ -99,7 +97,9 @@
         "Horizontal",
         "horizontal passage",
         "Miners",
-        "use adits"
+        "use adits",
+        "Mercator",
+        "Mercator Cooper"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -183,6 +183,7 @@
         "Lalon ==[band:]==> Lalon Bangladeshi",
         "Adit: ==[adit]==> stulm",
         "Horizontal ==[nearly]==> horizontal passage",
-        "Miners ==[can]==> use adits"
+        "Miners ==[can]==> use adits",
+        "Mercator ==[cooper:]==> Mercator Cooper"
     ]
 }

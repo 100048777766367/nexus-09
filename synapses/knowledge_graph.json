@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "the University",
-        "Sierra",
         "Guara Natural",
         "Bigfin",
         "squid: Sepioteuthis",
@@ -99,7 +97,9 @@
         "Tripolium",
         "Tripolium pannonicum,",
         "Cornulețe:",
-        "are Romanian"
+        "are Romanian",
+        "Sir",
+        "Philip 2015"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -187,6 +187,7 @@
         "Mercator ==[cooper:]==> Mercator Cooper",
         "109th ==[infantry]==> Regiment (United",
         "Tripolium ==[pannonicum:]==> Tripolium pannonicum,",
-        "Cornulețe: ==[cornulețe]==> are Romanian"
+        "Cornulețe: ==[cornulețe]==> are Romanian",
+        "Sir ==[chethimattathu]==> Philip 2015"
     ]
 }

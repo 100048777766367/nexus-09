@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Teri Marie",
-        "Former",
         "the University",
         "Sierra",
         "Guara Natural",
@@ -99,7 +97,9 @@
         "109th",
         "Regiment (United",
         "Tripolium",
-        "Tripolium pannonicum,"
+        "Tripolium pannonicum,",
+        "Cornulețe:",
+        "are Romanian"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -186,6 +186,7 @@
         "Miners ==[can]==> use adits",
         "Mercator ==[cooper:]==> Mercator Cooper",
         "109th ==[infantry]==> Regiment (United",
-        "Tripolium ==[pannonicum:]==> Tripolium pannonicum,"
+        "Tripolium ==[pannonicum:]==> Tripolium pannonicum,",
+        "Cornulețe: ==[cornulețe]==> are Romanian"
     ]
 }

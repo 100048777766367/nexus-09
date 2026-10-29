@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Guara Natural",
-        "Bigfin",
         "squid: Sepioteuthis",
         "1882",
         "White Stockings",
@@ -99,7 +97,9 @@
         "Cornulețe:",
         "are Romanian",
         "Sir",
-        "Philip 2015"
+        "Philip 2015",
+        "Charley",
+        "Weerd: Anton"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -188,6 +188,7 @@
         "109th ==[infantry]==> Regiment (United",
         "Tripolium ==[pannonicum:]==> Tripolium pannonicum,",
         "Cornulețe: ==[cornulețe]==> are Romanian",
-        "Sir ==[chethimattathu]==> Philip 2015"
+        "Sir ==[chethimattathu]==> Philip 2015",
+        "Charley ==[van]==> Weerd: Anton"
     ]
 }

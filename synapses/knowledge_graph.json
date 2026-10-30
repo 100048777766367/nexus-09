@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "White Stockings",
-        "Fermoy",
-        "Fermoy Barracks",
         "Douglas",
         "Douglas John",
         "First",
@@ -99,7 +96,10 @@
         "Charley",
         "Weerd: Anton",
         "Solace",
-        "Waffles EP):"
+        "Waffles EP):",
+        "Yavne–east",
+        "station: Yavne–East",
+        "line Binyamina/Netanya"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -190,6 +190,8 @@
         "Cornulețe: ==[cornulețe]==> are Romanian",
         "Sir ==[chethimattathu]==> Philip 2015",
         "Charley ==[van]==> Weerd: Anton",
-        "Solace ==[(uncle]==> Waffles EP):"
+        "Solace ==[(uncle]==> Waffles EP):",
+        "Yavne–east ==[railway]==> station: Yavne–East",
+        "The ==[suburban]==> line Binyamina/Netanya"
     ]
 }

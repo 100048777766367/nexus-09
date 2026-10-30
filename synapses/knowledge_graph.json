@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "squid: Sepioteuthis",
-        "1882",
         "White Stockings",
         "Fermoy",
         "Fermoy Barracks",
@@ -99,7 +97,9 @@
         "Sir",
         "Philip 2015",
         "Charley",
-        "Weerd: Anton"
+        "Weerd: Anton",
+        "Solace",
+        "Waffles EP):"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -189,6 +189,7 @@
         "Tripolium ==[pannonicum:]==> Tripolium pannonicum,",
         "Cornulețe: ==[cornulețe]==> are Romanian",
         "Sir ==[chethimattathu]==> Philip 2015",
-        "Charley ==[van]==> Weerd: Anton"
+        "Charley ==[van]==> Weerd: Anton",
+        "Solace ==[(uncle]==> Waffles EP):"
     ]
 }

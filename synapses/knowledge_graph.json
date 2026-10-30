@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Douglas",
-        "Douglas John",
         "First",
         "public attention",
         "Rebelle",
@@ -99,7 +97,9 @@
         "Waffles EP):",
         "Yavne–east",
         "station: Yavne–East",
-        "line Binyamina/Netanya"
+        "line Binyamina/Netanya",
+        "Mademoiselle",
+        "Paris: Mademoiselle"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -192,6 +192,7 @@
         "Charley ==[van]==> Weerd: Anton",
         "Solace ==[(uncle]==> Waffles EP):",
         "Yavne–east ==[railway]==> station: Yavne–East",
-        "The ==[suburban]==> line Binyamina/Netanya"
+        "The ==[suburban]==> line Binyamina/Netanya",
+        "Mademoiselle ==[from]==> Paris: Mademoiselle"
     ]
 }

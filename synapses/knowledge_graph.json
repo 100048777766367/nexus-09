@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Acanthoscurria maga",
-        "Taanayel:",
         "also transliterated",
         "Hervé",
         "Hervé Garel",
@@ -99,7 +97,9 @@
         "Mohamed",
         "Khelifi: Mohamed",
         "Represented",
-        "the 2024"
+        "the 2024",
+        "Ibrahim",
+        "Ibrahim Youssef"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -197,6 +197,7 @@
         "Khoan: ==[khoan]==> was Vietnamese",
         "Held ==[the]==> position Secretary",
         "Mohamed ==[nidhal]==> Khelifi: Mohamed",
-        "Represented ==[tunisia]==> the 2024"
+        "Represented ==[tunisia]==> the 2024",
+        "Ibrahim ==[kanaan:]==> Ibrahim Youssef"
     ]
 }

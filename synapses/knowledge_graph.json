@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "also transliterated",
-        "Hervé",
         "Hervé Garel",
         "Most",
         "won the",
@@ -99,7 +97,9 @@
         "Represented",
         "the 2024",
         "Ibrahim",
-        "Ibrahim Youssef"
+        "Ibrahim Youssef",
+        "Lake",
+        "Woman's Club:"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -198,6 +198,7 @@
         "Held ==[the]==> position Secretary",
         "Mohamed ==[nidhal]==> Khelifi: Mohamed",
         "Represented ==[tunisia]==> the 2024",
-        "Ibrahim ==[kanaan:]==> Ibrahim Youssef"
+        "Ibrahim ==[kanaan:]==> Ibrahim Youssef",
+        "Lake ==[butler]==> Woman's Club:"
     ]
 }

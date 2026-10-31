@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "First",
-        "public attention",
-        "Rebelle",
-        "Rebelle the",
         "was released",
         "Chaos",
         "Chaos Compilation",
@@ -99,7 +95,11 @@
         "station: Yavne–East",
         "line Binyamina/Netanya",
         "Mademoiselle",
-        "Paris: Mademoiselle"
+        "Paris: Mademoiselle",
+        "Khoan:",
+        "was Vietnamese",
+        "Held",
+        "position Secretary"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -193,6 +193,8 @@
         "Solace ==[(uncle]==> Waffles EP):",
         "Yavne–east ==[railway]==> station: Yavne–East",
         "The ==[suburban]==> line Binyamina/Netanya",
-        "Mademoiselle ==[from]==> Paris: Mademoiselle"
+        "Mademoiselle ==[from]==> Paris: Mademoiselle",
+        "Khoan: ==[khoan]==> was Vietnamese",
+        "Held ==[the]==> position Secretary"
     ]
 }

@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "was released",
-        "Chaos",
-        "Chaos Compilation",
-        "Acanthoscurria",
         "Acanthoscurria maga",
         "Taanayel:",
         "also transliterated",
@@ -99,7 +95,11 @@
         "Khoan:",
         "was Vietnamese",
         "Held",
-        "position Secretary"
+        "position Secretary",
+        "Mohamed",
+        "Khelifi: Mohamed",
+        "Represented",
+        "the 2024"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -195,6 +195,8 @@
         "The ==[suburban]==> line Binyamina/Netanya",
         "Mademoiselle ==[from]==> Paris: Mademoiselle",
         "Khoan: ==[khoan]==> was Vietnamese",
-        "Held ==[the]==> position Secretary"
+        "Held ==[the]==> position Secretary",
+        "Mohamed ==[nidhal]==> Khelifi: Mohamed",
+        "Represented ==[tunisia]==> the 2024"
     ]
 }

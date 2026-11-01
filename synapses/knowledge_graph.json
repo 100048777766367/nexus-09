@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "won the",
-        "Jan",
         "Jan Kanthak",
         "Andrzej Kanthak",
         "Priceless",
@@ -99,7 +97,9 @@
         "Lake",
         "Woman's Club:",
         "Electric",
-        "Electric charge"
+        "Electric charge",
+        "Here",
+        "Riot: Here"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -200,6 +200,7 @@
         "Represented ==[tunisia]==> the 2024",
         "Ibrahim ==[kanaan:]==> Ibrahim Youssef",
         "Lake ==[butler]==> Woman's Club:",
-        "Electric ==[charge:]==> Electric charge"
+        "Electric ==[charge:]==> Electric charge",
+        "Here ==[comes]==> Riot: Here"
     ]
 }

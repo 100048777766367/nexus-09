@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Jan Kanthak",
-        "Andrzej Kanthak",
-        "Priceless",
-        "album): Priceless",
         "Marybeth",
         "Marybeth Peters",
         "Nancy",
@@ -99,7 +95,11 @@
         "Electric",
         "Electric charge",
         "Here",
-        "Riot: Here"
+        "Riot: Here",
+        "Sage",
+        "Sage Hall",
+        "Originally",
+        "residential buildi"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -201,6 +201,8 @@
         "Ibrahim ==[kanaan:]==> Ibrahim Youssef",
         "Lake ==[butler]==> Woman's Club:",
         "Electric ==[charge:]==> Electric charge",
-        "Here ==[comes]==> Riot: Here"
+        "Here ==[comes]==> Riot: Here",
+        "Sage ==[hall:]==> Sage Hall",
+        "Originally ==[designed]==> residential buildi"
     ]
 }

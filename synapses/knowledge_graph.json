@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Hervé Garel",
-        "Most",
         "won the",
         "Jan",
         "Jan Kanthak",
@@ -99,7 +97,9 @@
         "Ibrahim",
         "Ibrahim Youssef",
         "Lake",
-        "Woman's Club:"
+        "Woman's Club:",
+        "Electric",
+        "Electric charge"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -199,6 +199,7 @@
         "Mohamed ==[nidhal]==> Khelifi: Mohamed",
         "Represented ==[tunisia]==> the 2024",
         "Ibrahim ==[kanaan:]==> Ibrahim Youssef",
-        "Lake ==[butler]==> Woman's Club:"
+        "Lake ==[butler]==> Woman's Club:",
+        "Electric ==[charge:]==> Electric charge"
     ]
 }

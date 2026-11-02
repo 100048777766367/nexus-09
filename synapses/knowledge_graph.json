@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Marybeth",
-        "Marybeth Peters",
-        "Nancy",
-        "(All Children):",
         "Finnish",
         "Grand Prix:",
         "Betsiboka",
@@ -99,7 +95,11 @@
         "Sage",
         "Sage Hall",
         "Originally",
-        "residential buildi"
+        "residential buildi",
+        "Gmina",
+        "Gmina Klonowa",
+        "Its",
+        "the village"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -203,6 +203,8 @@
         "Electric ==[charge:]==> Electric charge",
         "Here ==[comes]==> Riot: Here",
         "Sage ==[hall:]==> Sage Hall",
-        "Originally ==[designed]==> residential buildi"
+        "Originally ==[designed]==> residential buildi",
+        "Gmina ==[klonowa:]==> Gmina Klonowa",
+        "Its ==[seat]==> the village"
     ]
 }

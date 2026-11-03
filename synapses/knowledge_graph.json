@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Power",
-        "Control: Domestic",
         "Beltway",
         "Mall: The",
         "Sidney",
@@ -99,7 +97,9 @@
         "Pulse",
         "2008 techno-horror",
         "Rider",
-        "and Brittany"
+        "and Brittany",
+        "Iosif",
+        "Iosif Ignatyevich"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -209,6 +209,7 @@
         "1-methylhistamine: ==[1-methylhistamine]==> metabolite histamine",
         "Irakli ==[kobakhidze:]==> Irakli Kobakhidze",
         "Pulse ==[pulse]==> 2008 techno-horror",
-        "Rider ==[strong]==> and Brittany"
+        "Rider ==[strong]==> and Brittany",
+        "Iosif ==[loveyko:]==> Iosif Ignatyevich"
     ]
 }

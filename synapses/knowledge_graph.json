@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Flows",
-        "and empti",
-        "Garden",
-        "Field Secondary:",
         "Power",
         "Control: Domestic",
         "Beltway",
@@ -99,7 +95,11 @@
         "1-methylhistamine:",
         "metabolite histamine",
         "Irakli",
-        "Irakli Kobakhidze"
+        "Irakli Kobakhidze",
+        "Pulse",
+        "2008 techno-horror",
+        "Rider",
+        "and Brittany"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -207,6 +207,8 @@
         "Gmina ==[klonowa:]==> Gmina Klonowa",
         "Its ==[seat]==> the village",
         "1-methylhistamine: ==[1-methylhistamine]==> metabolite histamine",
-        "Irakli ==[kobakhidze:]==> Irakli Kobakhidze"
+        "Irakli ==[kobakhidze:]==> Irakli Kobakhidze",
+        "Pulse ==[pulse]==> 2008 techno-horror",
+        "Rider ==[strong]==> and Brittany"
     ]
 }

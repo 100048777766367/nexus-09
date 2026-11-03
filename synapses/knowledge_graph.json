@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Betsiboka",
-        "The Betsiboka",
         "Flows",
         "and empti",
         "Garden",
@@ -99,7 +97,9 @@
         "Its",
         "the village",
         "1-methylhistamine:",
-        "metabolite histamine"
+        "metabolite histamine",
+        "Irakli",
+        "Irakli Kobakhidze"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -206,6 +206,7 @@
         "Originally ==[designed]==> residential buildi",
         "Gmina ==[klonowa:]==> Gmina Klonowa",
         "Its ==[seat]==> the village",
-        "1-methylhistamine: ==[1-methylhistamine]==> metabolite histamine"
+        "1-methylhistamine: ==[1-methylhistamine]==> metabolite histamine",
+        "Irakli ==[kobakhidze:]==> Irakli Kobakhidze"
     ]
 }

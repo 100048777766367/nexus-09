@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Beltway",
-        "Mall: The",
         "Sidney",
         "Brown",
         "First National",
@@ -99,7 +97,9 @@
         "Rider",
         "and Brittany",
         "Iosif",
-        "Iosif Ignatyevich"
+        "Iosif Ignatyevich",
+        "Guild",
+        "Eye the"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -210,6 +210,7 @@
         "Irakli ==[kobakhidze:]==> Irakli Kobakhidze",
         "Pulse ==[pulse]==> 2008 techno-horror",
         "Rider ==[strong]==> and Brittany",
-        "Iosif ==[loveyko:]==> Iosif Ignatyevich"
+        "Iosif ==[loveyko:]==> Iosif Ignatyevich",
+        "Guild ==[wars:]==> Eye the"
     ]
 }

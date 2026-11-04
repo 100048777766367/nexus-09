@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Sidney",
-        "Brown",
         "First National",
         "Under",
         "Skies: Under",
@@ -99,7 +97,9 @@
         "Iosif",
         "Iosif Ignatyevich",
         "Guild",
-        "Eye the"
+        "Eye the",
+        "Back",
+        "Street: Back"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -211,6 +211,7 @@
         "Pulse ==[pulse]==> 2008 techno-horror",
         "Rider ==[strong]==> and Brittany",
         "Iosif ==[loveyko:]==> Iosif Ignatyevich",
-        "Guild ==[wars:]==> Eye the"
+        "Guild ==[wars:]==> Eye the",
+        "Back ==[the]==> Street: Back"
     ]
 }

@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "First National",
-        "Under",
-        "Skies: Under",
         "Wisconsin's",
         "districts: Wisconsin",
         "Philippe",
@@ -99,7 +96,10 @@
         "Guild",
         "Eye the",
         "Back",
-        "Street: Back"
+        "Street: Back",
+        "Paul",
+        "Moser",
+        "philosopher who"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -212,6 +212,8 @@
         "Rider ==[strong]==> and Brittany",
         "Iosif ==[loveyko:]==> Iosif Ignatyevich",
         "Guild ==[wars:]==> Eye the",
-        "Back ==[the]==> Street: Back"
+        "Back ==[the]==> Street: Back",
+        "Paul ==[moser:]==> Paul",
+        "Moser ==[american]==> philosopher who"
     ]
 }

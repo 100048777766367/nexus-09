@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "21)",
-        "nucleotide biosynth",
-        "X:in:",
-        "multinational girl",
         "Managed",
         "Entertainment, the",
         "Carlo",
@@ -99,7 +95,11 @@
         "Darkness:",
         "Anderson:",
         "Darkness",
-        "adult science"
+        "adult science",
+        "Brigid's",
+        "Prince Edward",
+        "Roman Catholic",
+        "Part"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -217,6 +217,9 @@
         "Moser ==[american]==> philosopher who",
         "Ahmed ==[karahisari:]==> Ahmed Karahisari",
         "Darkness: ==[poet]==> Anderson:",
-        "Darkness ==[young]==> adult science"
+        "Darkness ==[young]==> adult science",
+        "Brigid's ==[church,]==> Prince Edward",
+        "Brigid's ==[church]==> Roman Catholic",
+        "Part ==[the]==> Roman Catholic"
     ]
 }

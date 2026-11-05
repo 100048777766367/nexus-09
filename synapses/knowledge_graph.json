@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Wisconsin's",
-        "districts: Wisconsin",
         "Philippe",
         "Philippe Collas",
         "Phosphoribosylaminoimidazole",
@@ -99,7 +97,9 @@
         "Street: Back",
         "Paul",
         "Moser",
-        "philosopher who"
+        "philosopher who",
+        "Ahmed",
+        "Ahmed Karahisari"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -214,6 +214,7 @@
         "Guild ==[wars:]==> Eye the",
         "Back ==[the]==> Street: Back",
         "Paul ==[moser:]==> Paul",
-        "Moser ==[american]==> philosopher who"
+        "Moser ==[american]==> philosopher who",
+        "Ahmed ==[karahisari:]==> Ahmed Karahisari"
     ]
 }

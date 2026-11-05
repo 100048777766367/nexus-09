@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Philippe",
-        "Philippe Collas",
-        "Phosphoribosylaminoimidazole",
-        "The enzyme",
         "21)",
         "nucleotide biosynth",
         "X:in:",
@@ -99,7 +95,11 @@
         "Moser",
         "philosopher who",
         "Ahmed",
-        "Ahmed Karahisari"
+        "Ahmed Karahisari",
+        "Darkness:",
+        "Anderson:",
+        "Darkness",
+        "adult science"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -215,6 +215,8 @@
         "Back ==[the]==> Street: Back",
         "Paul ==[moser:]==> Paul",
         "Moser ==[american]==> philosopher who",
-        "Ahmed ==[karahisari:]==> Ahmed Karahisari"
+        "Ahmed ==[karahisari:]==> Ahmed Karahisari",
+        "Darkness: ==[poet]==> Anderson:",
+        "Darkness ==[young]==> adult science"
     ]
 }

@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Managed",
-        "Entertainment, the",
-        "Carlo",
-        "Nutten Carlo",
         "The",
         "was titled",
         "Slovak",
@@ -99,7 +95,11 @@
         "Brigid's",
         "Prince Edward",
         "Roman Catholic",
-        "Part"
+        "Part",
+        "Sharon",
+        "Sharon Karen",
+        "She",
+        "Austral"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -220,6 +220,8 @@
         "Darkness ==[young]==> adult science",
         "Brigid's ==[church,]==> Prince Edward",
         "Brigid's ==[church]==> Roman Catholic",
-        "Part ==[the]==> Roman Catholic"
+        "Part ==[the]==> Roman Catholic",
+        "Sharon ==[strzelecki:]==> Sharon Karen",
+        "She ==[portrayed]==> Austral"
     ]
 }

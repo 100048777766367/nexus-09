@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "The",
-        "was titled",
         "Slovak",
         "Slovak Lines",
         "operating urban,",
@@ -99,7 +97,9 @@
         "Sharon",
         "Sharon Karen",
         "She",
-        "Austral"
+        "Austral",
+        "Cicindela",
+        "Cicindela limbata,"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -222,6 +222,7 @@
         "Brigid's ==[church]==> Roman Catholic",
         "Part ==[the]==> Roman Catholic",
         "Sharon ==[strzelecki:]==> Sharon Karen",
-        "She ==[portrayed]==> Austral"
+        "She ==[portrayed]==> Austral",
+        "Cicindela ==[limbata:]==> Cicindela limbata,"
     ]
 }

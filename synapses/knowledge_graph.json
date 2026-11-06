@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Slovak",
-        "Slovak Lines",
         "operating urban,",
         "rena",
         "Battle",
@@ -99,7 +97,9 @@
         "She",
         "Austral",
         "Cicindela",
-        "Cicindela limbata,"
+        "Cicindela limbata,",
+        "Will",
+        "(The Fresh"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -223,6 +223,7 @@
         "Part ==[the]==> Roman Catholic",
         "Sharon ==[strzelecki:]==> Sharon Karen",
         "She ==[portrayed]==> Austral",
-        "Cicindela ==[limbata:]==> Cicindela limbata,"
+        "Cicindela ==[limbata:]==> Cicindela limbata,",
+        "Will ==[smith]==> (The Fresh"
     ]
 }

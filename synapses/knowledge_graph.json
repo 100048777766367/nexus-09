@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "operating urban,",
-        "rena",
         "Battle",
         "(312): The",
         "Hackensack",
@@ -99,7 +97,9 @@
         "Cicindela",
         "Cicindela limbata,",
         "Will",
-        "(The Fresh"
+        "(The Fresh",
+        "Matataki",
+        "known Piecing"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -224,6 +224,7 @@
         "Sharon ==[strzelecki:]==> Sharon Karen",
         "She ==[portrayed]==> Austral",
         "Cicindela ==[limbata:]==> Cicindela limbata,",
-        "Will ==[smith]==> (The Fresh"
+        "Will ==[smith]==> (The Fresh",
+        "Matataki ==[also]==> known Piecing"
     ]
 }

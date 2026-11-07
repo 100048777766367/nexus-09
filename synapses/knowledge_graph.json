@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Dominique",
-        "Dominique Farrugia",
         "San",
         "degli Scarioni,",
         "Lalon",
@@ -99,7 +97,9 @@
         "Refahiye",
         "Refahiye District",
         "the town",
-        "1,808"
+        "1,808",
+        "Château",
+        "The Château"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -230,6 +230,7 @@
         "Was ==[released]==> through Concord",
         "Refahiye ==[district:]==> Refahiye District",
         "Its ==[seat]==> the town",
-        "Its ==[area]==> 1,808"
+        "Its ==[area]==> 1,808",
+        "Château ==[bourmont:]==> The Château"
     ]
 }

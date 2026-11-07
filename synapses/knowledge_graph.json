@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "United",
-        "Security Council",
-        "Pubg:",
-        "PUBG: Battlegrounds,",
         "Dominique",
         "Dominique Farrugia",
         "San",
@@ -99,7 +95,11 @@
         "Always",
         "(album): Always",
         "Was",
-        "through Concord"
+        "through Concord",
+        "Refahiye",
+        "Refahiye District",
+        "the town",
+        "1,808"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -227,6 +227,9 @@
         "Will ==[smith]==> (The Fresh",
         "Matataki ==[also]==> known Piecing",
         "Always ==[tomorrow]==> (album): Always",
-        "Was ==[released]==> through Concord"
+        "Was ==[released]==> through Concord",
+        "Refahiye ==[district:]==> Refahiye District",
+        "Its ==[seat]==> the town",
+        "Its ==[area]==> 1,808"
     ]
 }

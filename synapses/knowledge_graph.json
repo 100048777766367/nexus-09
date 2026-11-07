@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "San",
-        "degli Scarioni,",
-        "Lalon",
         "Lalon Bangladeshi",
         "Adit:",
         "stulm",
@@ -99,7 +96,10 @@
         "the town",
         "1,808",
         "Château",
-        "The Château"
+        "The Château",
+        "Naliya",
+        "railway station:",
+        "NLC"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -231,6 +231,8 @@
         "Refahiye ==[district:]==> Refahiye District",
         "Its ==[seat]==> the town",
         "Its ==[area]==> 1,808",
-        "Château ==[bourmont:]==> The Château"
+        "Château ==[bourmont:]==> The Château",
+        "Naliya ==[cantonment]==> railway station:",
+        "Its ==[code]==> NLC"
     ]
 }

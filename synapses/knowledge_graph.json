@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Lalon Bangladeshi",
-        "Adit:",
         "stulm",
         "Horizontal",
         "horizontal passage",
@@ -99,7 +97,9 @@
         "The Château",
         "Naliya",
         "railway station:",
-        "NLC"
+        "NLC",
+        "Vandicholai",
+        "Vandicholai Chinraasu"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -233,6 +233,7 @@
         "Its ==[area]==> 1,808",
         "Château ==[bourmont:]==> The Château",
         "Naliya ==[cantonment]==> railway station:",
-        "Its ==[code]==> NLC"
+        "Its ==[code]==> NLC",
+        "Vandicholai ==[chinraasu:]==> Vandicholai Chinraasu"
     ]
 }

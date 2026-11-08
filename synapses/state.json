@@ -1,6 +1,6 @@
 {
-    "generation_epoch": 89,
-    "last_t": 1794095949,
-    "quantum_cid": "31479cb726b24e0bf7ea8defd2988586f02ea99f0af84adbcd211961cb2c7ef642f19d10520dba19369adf577bedd09465e0eba16aae49f15c1fdae9fa6e6450",
+    "generation_epoch": 90,
+    "last_t": 1794120208,
+    "quantum_cid": "ded045ff03d65a816b9a4743184251b0705bdb016f187ee81c5cc4f4712ba882d8ba51c4cae1a30d73cb39f773678fc2dfdbe984a6bf7ddb2e6301cac848e0af",
     "status": "apex_f9_evolved"
 }

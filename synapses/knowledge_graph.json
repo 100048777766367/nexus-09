@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "stulm",
-        "Horizontal",
-        "horizontal passage",
-        "Miners",
         "use adits",
         "Mercator",
         "Mercator Cooper",
@@ -99,7 +95,11 @@
         "railway station:",
         "NLC",
         "Vandicholai",
-        "Vandicholai Chinraasu"
+        "Vandicholai Chinraasu",
+        "Birdsong",
+        "Birdsong 1993",
+        "Faulks's",
+        "novel"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -234,6 +234,8 @@
         "Château ==[bourmont:]==> The Château",
         "Naliya ==[cantonment]==> railway station:",
         "Its ==[code]==> NLC",
-        "Vandicholai ==[chinraasu:]==> Vandicholai Chinraasu"
+        "Vandicholai ==[chinraasu:]==> Vandicholai Chinraasu",
+        "Birdsong ==[(novel):]==> Birdsong 1993",
+        "Faulks's ==[fourth]==> novel"
     ]
 }

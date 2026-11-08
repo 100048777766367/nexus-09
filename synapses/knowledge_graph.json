@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "use adits",
-        "Mercator",
         "Mercator Cooper",
         "109th",
         "Regiment (United",
@@ -99,7 +97,9 @@
         "Birdsong",
         "Birdsong 1993",
         "Faulks's",
-        "novel"
+        "novel",
+        "Somebody's",
+        "(film): Somebody's"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -236,6 +236,7 @@
         "Its ==[code]==> NLC",
         "Vandicholai ==[chinraasu:]==> Vandicholai Chinraasu",
         "Birdsong ==[(novel):]==> Birdsong 1993",
-        "Faulks's ==[fourth]==> novel"
+        "Faulks's ==[fourth]==> novel",
+        "Somebody's ==[hero]==> (film): Somebody's"
     ]
 }

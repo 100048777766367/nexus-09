@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "are Romanian",
-        "Sir",
         "Philip 2015",
         "Charley",
         "Weerd: Anton",
@@ -99,7 +97,9 @@
         "Science",
         "(Jonathan Thulin",
         "Dream",
-        "released the"
+        "released the",
+        "Nawab",
+        "Nawab Nandini"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -240,6 +240,7 @@
         "Somebody's ==[hero]==> (film): Somebody's",
         "Romain ==[armand:]==> Romain Armand",
         "Science ==[fiction]==> (Jonathan Thulin",
-        "Dream ==[records]==> released the"
+        "Dream ==[records]==> released the",
+        "Nawab ==[nandini:]==> Nawab Nandini"
     ]
 }

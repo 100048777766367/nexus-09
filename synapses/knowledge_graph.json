@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Mercator Cooper",
-        "109th",
         "Regiment (United",
         "Tripolium",
         "Tripolium pannonicum,",
@@ -99,7 +97,9 @@
         "Faulks's",
         "novel",
         "Somebody's",
-        "(film): Somebody's"
+        "(film): Somebody's",
+        "Romain",
+        "Romain Armand"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -237,6 +237,7 @@
         "Vandicholai ==[chinraasu:]==> Vandicholai Chinraasu",
         "Birdsong ==[(novel):]==> Birdsong 1993",
         "Faulks's ==[fourth]==> novel",
-        "Somebody's ==[hero]==> (film): Somebody's"
+        "Somebody's ==[hero]==> (film): Somebody's",
+        "Romain ==[armand:]==> Romain Armand"
     ]
 }

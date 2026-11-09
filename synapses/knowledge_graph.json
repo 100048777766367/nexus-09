@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Regiment (United",
-        "Tripolium",
-        "Tripolium pannonicum,",
-        "Cornulețe:",
         "are Romanian",
         "Sir",
         "Philip 2015",
@@ -99,7 +95,11 @@
         "Somebody's",
         "(film): Somebody's",
         "Romain",
-        "Romain Armand"
+        "Romain Armand",
+        "Science",
+        "(Jonathan Thulin",
+        "Dream",
+        "released the"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -238,6 +238,8 @@
         "Birdsong ==[(novel):]==> Birdsong 1993",
         "Faulks's ==[fourth]==> novel",
         "Somebody's ==[hero]==> (film): Somebody's",
-        "Romain ==[armand:]==> Romain Armand"
+        "Romain ==[armand:]==> Romain Armand",
+        "Science ==[fiction]==> (Jonathan Thulin",
+        "Dream ==[records]==> released the"
     ]
 }

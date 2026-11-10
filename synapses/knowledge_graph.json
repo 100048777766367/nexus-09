@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Weerd: Anton",
-        "Solace",
         "Waffles EP):",
         "Yavne–east",
         "station: Yavne–East",
@@ -99,7 +97,9 @@
         "Nawab",
         "Nawab Nandini",
         "Love",
-        "(Tina Turner"
+        "(Tina Turner",
+        "The",
+        "Back (Bitch"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -242,6 +242,7 @@
         "Science ==[fiction]==> (Jonathan Thulin",
         "Dream ==[records]==> released the",
         "Nawab ==[nandini:]==> Nawab Nandini",
-        "Love ==[songs]==> (Tina Turner"
+        "Love ==[songs]==> (Tina Turner",
+        "The ==[bitch]==> Back (Bitch"
     ]
 }

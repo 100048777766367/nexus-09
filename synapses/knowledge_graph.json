@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Philip 2015",
-        "Charley",
         "Weerd: Anton",
         "Solace",
         "Waffles EP):",
@@ -99,7 +97,9 @@
         "Dream",
         "released the",
         "Nawab",
-        "Nawab Nandini"
+        "Nawab Nandini",
+        "Love",
+        "(Tina Turner"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -241,6 +241,7 @@
         "Romain ==[armand:]==> Romain Armand",
         "Science ==[fiction]==> (Jonathan Thulin",
         "Dream ==[records]==> released the",
-        "Nawab ==[nandini:]==> Nawab Nandini"
+        "Nawab ==[nandini:]==> Nawab Nandini",
+        "Love ==[songs]==> (Tina Turner"
     ]
 }

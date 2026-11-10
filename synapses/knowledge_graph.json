@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Waffles EP):",
-        "Yavne–east",
         "station: Yavne–East",
         "line Binyamina/Netanya",
         "Mademoiselle",
@@ -99,7 +97,9 @@
         "Love",
         "(Tina Turner",
         "The",
-        "Back (Bitch"
+        "Back (Bitch",
+        "Geographical",
+        "Geographical kaleidoscope"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -243,6 +243,7 @@
         "Dream ==[records]==> released the",
         "Nawab ==[nandini:]==> Nawab Nandini",
         "Love ==[songs]==> (Tina Turner",
-        "The ==[bitch]==> Back (Bitch"
+        "The ==[bitch]==> Back (Bitch",
+        "Geographical ==[kaleidoscope:]==> Geographical kaleidoscope"
     ]
 }

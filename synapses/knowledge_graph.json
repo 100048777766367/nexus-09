@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "station: Yavne–East",
-        "line Binyamina/Netanya",
-        "Mademoiselle",
-        "Paris: Mademoiselle",
         "Khoan:",
         "was Vietnamese",
         "Held",
@@ -99,7 +95,11 @@
         "The",
         "Back (Bitch",
         "Geographical",
-        "Geographical kaleidoscope"
+        "Geographical kaleidoscope",
+        "Juan",
+        "García Treviño:",
+        "Most",
+        "known for"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -244,6 +244,8 @@
         "Nawab ==[nandini:]==> Nawab Nandini",
         "Love ==[songs]==> (Tina Turner",
         "The ==[bitch]==> Back (Bitch",
-        "Geographical ==[kaleidoscope:]==> Geographical kaleidoscope"
+        "Geographical ==[kaleidoscope:]==> Geographical kaleidoscope",
+        "Juan ==[daniel]==> García Treviño:",
+        "Most ==[well]==> known for"
     ]
 }

@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Khoan:",
-        "was Vietnamese",
-        "Held",
         "position Secretary",
         "Mohamed",
         "Khelifi: Mohamed",
@@ -99,7 +96,10 @@
         "Juan",
         "García Treviño:",
         "Most",
-        "known for"
+        "known for",
+        "Suzi",
+        "Susan Kay",
+        "she scored"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -246,6 +246,8 @@
         "The ==[bitch]==> Back (Bitch",
         "Geographical ==[kaleidoscope:]==> Geographical kaleidoscope",
         "Juan ==[daniel]==> García Treviño:",
-        "Most ==[well]==> known for"
+        "Most ==[well]==> known for",
+        "Suzi ==[quatro:]==> Susan Kay",
+        "The ==[1970s,]==> she scored"
     ]
 }

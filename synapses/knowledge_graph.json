@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "position Secretary",
-        "Mohamed",
         "Khelifi: Mohamed",
         "Represented",
         "the 2024",
@@ -99,7 +97,9 @@
         "known for",
         "Suzi",
         "Susan Kay",
-        "she scored"
+        "she scored",
+        "Sold",
+        "film): Sold"
     ],
     "edges": [
         "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
@@ -248,6 +248,7 @@
         "Juan ==[daniel]==> García Treviño:",
         "Most ==[well]==> known for",
         "Suzi ==[quatro:]==> Susan Kay",
-        "The ==[1970s,]==> she scored"
+        "The ==[1970s,]==> she scored",
+        "Sold ==[(1915]==> film): Sold"
     ]
 }

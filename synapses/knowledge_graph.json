@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Ibrahim",
-        "Ibrahim Youssef",
-        "Lake",
         "Woman's Club:",
         "Electric",
         "Electric charge",
@@ -99,11 +96,12 @@
         "film): Sold",
         "One",
         "(Deborah Cox",
-        "Arista Records"
+        "Arista Records",
+        "Mount",
+        "Mount Democrat",
+        "state's"
     ],
     "edges": [
-        "Maria-pia ==[boëthius:]==> Maria-Pia Boëthius",
-        "She ==[worked]==> journalist for",
         "The ==[origins]==> American Social",
         "Łęczeszyce: ==[łęczeszyce]==> village the",
         "Valley ==[gardens:]==> The Valley",
@@ -251,6 +249,8 @@
         "The ==[1970s,]==> she scored",
         "Sold ==[(1915]==> film): Sold",
         "One ==[wish]==> (Deborah Cox",
-        "Was ==[released]==> Arista Records"
+        "Was ==[released]==> Arista Records",
+        "Mount ==[democrat:]==> Mount Democrat",
+        "One ==[the]==> state's"
     ]
 }

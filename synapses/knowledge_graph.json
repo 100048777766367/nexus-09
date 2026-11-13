@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Riot: Here",
-        "Sage",
         "Sage Hall",
         "Originally",
         "residential buildi",
@@ -99,10 +97,11 @@
         "Ashtabula",
         "Medical Center:",
         "Like",
-        "Gaiden: The"
+        "Gaiden: The",
+        "Lambom",
+        "Lambom Island"
     ],
     "edges": [
-        "Valley ==[gardens:]==> The Valley",
         "Km2) ==[woodland]==> garden, part",
         "Newbern, ==[tennessee:]==> Newbern town",
         "The ==[2020]==> census, the",
@@ -251,6 +250,7 @@
         "Mount ==[democrat:]==> Mount Democrat",
         "One ==[the]==> state's",
         "Ashtabula ==[county]==> Medical Center:",
-        "Like ==[dragon]==> Gaiden: The"
+        "Like ==[dragon]==> Gaiden: The",
+        "Lambom ==[island:]==> Lambom Island"
     ]
 }

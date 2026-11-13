@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Woman's Club:",
-        "Electric",
         "Electric charge",
         "Here",
         "Riot: Here",
@@ -99,10 +97,11 @@
         "Arista Records",
         "Mount",
         "Mount Democrat",
-        "state's"
+        "state's",
+        "Ashtabula",
+        "Medical Center:"
     ],
     "edges": [
-        "The ==[origins]==> American Social",
         "Łęczeszyce: ==[łęczeszyce]==> village the",
         "Valley ==[gardens:]==> The Valley",
         "Km2) ==[woodland]==> garden, part",
@@ -251,6 +250,7 @@
         "One ==[wish]==> (Deborah Cox",
         "Was ==[released]==> Arista Records",
         "Mount ==[democrat:]==> Mount Democrat",
-        "One ==[the]==> state's"
+        "One ==[the]==> state's",
+        "Ashtabula ==[county]==> Medical Center:"
     ]
 }

@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Electric charge",
-        "Here",
         "Riot: Here",
         "Sage",
         "Sage Hall",
@@ -99,10 +97,11 @@
         "Mount Democrat",
         "state's",
         "Ashtabula",
-        "Medical Center:"
+        "Medical Center:",
+        "Like",
+        "Gaiden: The"
     ],
     "edges": [
-        "Łęczeszyce: ==[łęczeszyce]==> village the",
         "Valley ==[gardens:]==> The Valley",
         "Km2) ==[woodland]==> garden, part",
         "Newbern, ==[tennessee:]==> Newbern town",
@@ -251,6 +250,7 @@
         "Was ==[released]==> Arista Records",
         "Mount ==[democrat:]==> Mount Democrat",
         "One ==[the]==> state's",
-        "Ashtabula ==[county]==> Medical Center:"
+        "Ashtabula ==[county]==> Medical Center:",
+        "Like ==[dragon]==> Gaiden: The"
     ]
 }

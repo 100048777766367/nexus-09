@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Sage Hall",
-        "Originally",
         "residential buildi",
         "Gmina",
         "Gmina Klonowa",
@@ -99,10 +97,11 @@
         "Like",
         "Gaiden: The",
         "Lambom",
-        "Lambom Island"
+        "Lambom Island",
+        "Luckey:",
+        "Dana Luckey"
     ],
     "edges": [
-        "Km2) ==[woodland]==> garden, part",
         "Newbern, ==[tennessee:]==> Newbern town",
         "The ==[2020]==> census, the",
         "Asaduzzaman ==[bangladeshi]==> lawyer and",
@@ -251,6 +250,7 @@
         "One ==[the]==> state's",
         "Ashtabula ==[county]==> Medical Center:",
         "Like ==[dragon]==> Gaiden: The",
-        "Lambom ==[island:]==> Lambom Island"
+        "Lambom ==[island:]==> Lambom Island",
+        "Luckey: ==[charles]==> Dana Luckey"
     ]
 }

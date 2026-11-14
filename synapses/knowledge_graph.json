@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Gmina Klonowa",
-        "Its",
         "the village",
         "1-methylhistamine:",
         "metabolite histamine",
@@ -99,10 +97,11 @@
         "Luckey:",
         "Dana Luckey",
         "Kim",
-        "Military University:"
+        "Military University:",
+        "College",
+        "Arts: The"
     ],
     "edges": [
-        "The ==[2020]==> census, the",
         "Asaduzzaman ==[bangladeshi]==> lawyer and",
         "The ==[incumbent]==> minister law,",
         "You ==[love]==> Me: You",
@@ -251,6 +250,7 @@
         "Like ==[dragon]==> Gaiden: The",
         "Lambom ==[island:]==> Lambom Island",
         "Luckey: ==[charles]==> Dana Luckey",
-        "Kim ==[sung]==> Military University:"
+        "Kim ==[sung]==> Military University:",
+        "College ==[visual]==> Arts: The"
     ]
 }

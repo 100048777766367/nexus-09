@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "residential buildi",
-        "Gmina",
         "Gmina Klonowa",
         "Its",
         "the village",
@@ -99,10 +97,11 @@
         "Lambom",
         "Lambom Island",
         "Luckey:",
-        "Dana Luckey"
+        "Dana Luckey",
+        "Kim",
+        "Military University:"
     ],
     "edges": [
-        "Newbern, ==[tennessee:]==> Newbern town",
         "The ==[2020]==> census, the",
         "Asaduzzaman ==[bangladeshi]==> lawyer and",
         "The ==[incumbent]==> minister law,",
@@ -251,6 +250,7 @@
         "Ashtabula ==[county]==> Medical Center:",
         "Like ==[dragon]==> Gaiden: The",
         "Lambom ==[island:]==> Lambom Island",
-        "Luckey: ==[charles]==> Dana Luckey"
+        "Luckey: ==[charles]==> Dana Luckey",
+        "Kim ==[sung]==> Military University:"
     ]
 }

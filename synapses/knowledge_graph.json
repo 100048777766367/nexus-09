@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Pulse",
-        "2008 techno-horror",
         "Rider",
         "and Brittany",
         "Iosif",
@@ -99,10 +97,11 @@
         "Muhsin Muhammad",
         "Foundation",
         "album): Foundation",
-        "main styles"
+        "main styles",
+        "Ophir",
+        "Ophir Pines-Paz"
     ],
     "edges": [
-        "Pindi ==[balochan:]==> Pindi Balochan",
         "Situated ==[the]==> outskirts Faridkot,",
         "Wilhelm ==[reinhard]==> (pilot): Hauptmann",
         "Reinhard ==[became]==> flying ace",
@@ -251,6 +250,7 @@
         "College ==[visual]==> Arts: The",
         "Muhsin ==[muhammad:]==> Muhsin Muhammad",
         "Foundation ==[(breakage]==> album): Foundation",
-        "The ==[album's]==> main styles"
+        "The ==[album's]==> main styles",
+        "Ophir ==[pines-paz:]==> Ophir Pines-Paz"
     ]
 }

@@ -1,6 +1,5 @@
 {
     "nodes": [
-        "Rider",
         "and Brittany",
         "Iosif",
         "Iosif Ignatyevich",
@@ -99,10 +98,10 @@
         "album): Foundation",
         "main styles",
         "Ophir",
-        "Ophir Pines-Paz"
+        "Ophir Pines-Paz",
+        "Juan Mirabal,"
     ],
     "edges": [
-        "Situated ==[the]==> outskirts Faridkot,",
         "Wilhelm ==[reinhard]==> (pilot): Hauptmann",
         "Reinhard ==[became]==> flying ace",
         "Mary ==[magdalene's]==> Church, Launceston:",
@@ -251,6 +250,7 @@
         "Muhsin ==[muhammad:]==> Muhsin Muhammad",
         "Foundation ==[(breakage]==> album): Foundation",
         "The ==[album's]==> main styles",
-        "Ophir ==[pines-paz:]==> Ophir Pines-Paz"
+        "Ophir ==[pines-paz:]==> Ophir Pines-Paz",
+        "Juan ==[mirabal:]==> Juan Mirabal,"
     ]
 }

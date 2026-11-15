@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "the village",
-        "1-methylhistamine:",
         "metabolite histamine",
         "Irakli",
         "Irakli Kobakhidze",
@@ -99,10 +97,11 @@
         "Kim",
         "Military University:",
         "College",
-        "Arts: The"
+        "Arts: The",
+        "Muhsin",
+        "Muhsin Muhammad"
     ],
     "edges": [
-        "Asaduzzaman ==[bangladeshi]==> lawyer and",
         "The ==[incumbent]==> minister law,",
         "You ==[love]==> Me: You",
         "Pindi ==[balochan:]==> Pindi Balochan",
@@ -251,6 +250,7 @@
         "Lambom ==[island:]==> Lambom Island",
         "Luckey: ==[charles]==> Dana Luckey",
         "Kim ==[sung]==> Military University:",
-        "College ==[visual]==> Arts: The"
+        "College ==[visual]==> Arts: The",
+        "Muhsin ==[muhammad:]==> Muhsin Muhammad"
     ]
 }

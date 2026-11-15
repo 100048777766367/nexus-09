@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "metabolite histamine",
-        "Irakli",
-        "Irakli Kobakhidze",
         "Pulse",
         "2008 techno-horror",
         "Rider",
@@ -99,11 +96,12 @@
         "College",
         "Arts: The",
         "Muhsin",
-        "Muhsin Muhammad"
+        "Muhsin Muhammad",
+        "Foundation",
+        "album): Foundation",
+        "main styles"
     ],
     "edges": [
-        "The ==[incumbent]==> minister law,",
-        "You ==[love]==> Me: You",
         "Pindi ==[balochan:]==> Pindi Balochan",
         "Situated ==[the]==> outskirts Faridkot,",
         "Wilhelm ==[reinhard]==> (pilot): Hauptmann",
@@ -251,6 +249,8 @@
         "Luckey: ==[charles]==> Dana Luckey",
         "Kim ==[sung]==> Military University:",
         "College ==[visual]==> Arts: The",
-        "Muhsin ==[muhammad:]==> Muhsin Muhammad"
+        "Muhsin ==[muhammad:]==> Muhsin Muhammad",
+        "Foundation ==[(breakage]==> album): Foundation",
+        "The ==[album's]==> main styles"
     ]
 }

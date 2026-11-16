@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "and Brittany",
-        "Iosif",
         "Iosif Ignatyevich",
         "Guild",
         "Eye the",
@@ -99,10 +97,11 @@
         "main styles",
         "Ophir",
         "Ophir Pines-Paz",
-        "Juan Mirabal,"
+        "Juan Mirabal,",
+        "Minx",
+        "series): Minx"
     ],
     "edges": [
-        "Wilhelm ==[reinhard]==> (pilot): Hauptmann",
         "Reinhard ==[became]==> flying ace",
         "Mary ==[magdalene's]==> Church, Launceston:",
         "Rosanna ==[munter:]==> Rosanna Bella",
@@ -251,6 +250,7 @@
         "Foundation ==[(breakage]==> album): Foundation",
         "The ==[album's]==> main styles",
         "Ophir ==[pines-paz:]==> Ophir Pines-Paz",
-        "Juan ==[mirabal:]==> Juan Mirabal,"
+        "Juan ==[mirabal:]==> Juan Mirabal,",
+        "Minx ==[(tv]==> series): Minx"
     ]
 }

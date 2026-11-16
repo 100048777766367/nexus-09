@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Iosif Ignatyevich",
-        "Guild",
         "Eye the",
         "Back",
         "Street: Back",
@@ -99,10 +97,11 @@
         "Ophir Pines-Paz",
         "Juan Mirabal,",
         "Minx",
-        "series): Minx"
+        "series): Minx",
+        "Willie",
+        "Willie James"
     ],
     "edges": [
-        "Reinhard ==[became]==> flying ace",
         "Mary ==[magdalene's]==> Church, Launceston:",
         "Rosanna ==[munter:]==> Rosanna Bella",
         "She ==[best]==> known member",
@@ -251,6 +250,7 @@
         "The ==[album's]==> main styles",
         "Ophir ==[pines-paz:]==> Ophir Pines-Paz",
         "Juan ==[mirabal:]==> Juan Mirabal,",
-        "Minx ==[(tv]==> series): Minx"
+        "Minx ==[(tv]==> series): Minx",
+        "Willie ==[drewrey:]==> Willie James"
     ]
 }

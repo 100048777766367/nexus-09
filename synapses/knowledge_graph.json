@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Eye the",
-        "Back",
-        "Street: Back",
         "Paul",
         "Moser",
         "philosopher who",
@@ -99,11 +96,12 @@
         "Minx",
         "series): Minx",
         "Willie",
-        "Willie James"
+        "Willie James",
+        "Tears",
+        "Carpenter song):",
+        "August 29,"
     ],
     "edges": [
-        "Mary ==[magdalene's]==> Church, Launceston:",
-        "Rosanna ==[munter:]==> Rosanna Bella",
         "She ==[best]==> known member",
         "List ==[earth]==> flybys: List",
         "Mohammad ==[hassan]==> Ansarifard: Mohammad",
@@ -251,6 +249,8 @@
         "Ophir ==[pines-paz:]==> Ophir Pines-Paz",
         "Juan ==[mirabal:]==> Juan Mirabal,",
         "Minx ==[(tv]==> series): Minx",
-        "Willie ==[drewrey:]==> Willie James"
+        "Willie ==[drewrey:]==> Willie James",
+        "Tears ==[(sabrina]==> Carpenter song):",
+        "Was ==[released]==> August 29,"
     ]
 }

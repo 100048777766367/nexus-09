@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Paul",
-        "Moser",
         "philosopher who",
         "Ahmed",
         "Ahmed Karahisari",
@@ -99,10 +97,11 @@
         "Willie James",
         "Tears",
         "Carpenter song):",
-        "August 29,"
+        "August 29,",
+        "Walter",
+        "The Walter"
     ],
     "edges": [
-        "She ==[best]==> known member",
         "List ==[earth]==> flybys: List",
         "Mohammad ==[hassan]==> Ansarifard: Mohammad",
         "Toxic ==[waste:]==> Toxic waste",
@@ -251,6 +250,7 @@
         "Minx ==[(tv]==> series): Minx",
         "Willie ==[drewrey:]==> Willie James",
         "Tears ==[(sabrina]==> Carpenter song):",
-        "Was ==[released]==> August 29,"
+        "Was ==[released]==> August 29,",
+        "Walter ==[bora:]==> The Walter"
     ]
 }

@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "philosopher who",
-        "Ahmed",
         "Ahmed Karahisari",
         "Darkness:",
         "Anderson:",
@@ -99,10 +97,11 @@
         "Carpenter song):",
         "August 29,",
         "Walter",
-        "The Walter"
+        "The Walter",
+        "State",
+        "Preacher: Samuel"
     ],
     "edges": [
-        "List ==[earth]==> flybys: List",
         "Mohammad ==[hassan]==> Ansarifard: Mohammad",
         "Toxic ==[waste:]==> Toxic waste",
         "Mostly ==[generated]==> industry, consumer",
@@ -251,6 +250,7 @@
         "Willie ==[drewrey:]==> Willie James",
         "Tears ==[(sabrina]==> Carpenter song):",
         "Was ==[released]==> August 29,",
-        "Walter ==[bora:]==> The Walter"
+        "Walter ==[bora:]==> The Walter",
+        "State ==[street]==> Preacher: Samuel"
     ]
 }

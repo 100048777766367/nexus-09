@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Darkness",
-        "adult science",
         "Brigid's",
         "Prince Edward",
         "Roman Catholic",
@@ -99,10 +97,11 @@
         "Preacher: Samuel",
         "Club",
         "Palermo: Club",
-        "has British"
+        "has British",
+        "National",
+        "Horse: The"
     ],
     "edges": [
-        "Mostly ==[generated]==> industry, consumer",
         "William ==[emmett]==> Dever: William",
         "Was ==[the]==> mayor Chicago",
         "Had ==[previously]==> served",
@@ -251,6 +250,7 @@
         "Walter ==[bora:]==> The Walter",
         "State ==[street]==> Preacher: Samuel",
         "Club ==[atlético]==> Palermo: Club",
-        "The ==[club]==> has British"
+        "The ==[club]==> has British",
+        "National ==[show]==> Horse: The"
     ]
 }

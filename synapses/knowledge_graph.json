@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Ahmed Karahisari",
-        "Darkness:",
-        "Anderson:",
         "Darkness",
         "adult science",
         "Brigid's",
@@ -99,11 +96,12 @@
         "Walter",
         "The Walter",
         "State",
-        "Preacher: Samuel"
+        "Preacher: Samuel",
+        "Club",
+        "Palermo: Club",
+        "has British"
     ],
     "edges": [
-        "Mohammad ==[hassan]==> Ansarifard: Mohammad",
-        "Toxic ==[waste:]==> Toxic waste",
         "Mostly ==[generated]==> industry, consumer",
         "William ==[emmett]==> Dever: William",
         "Was ==[the]==> mayor Chicago",
@@ -251,6 +249,8 @@
         "Tears ==[(sabrina]==> Carpenter song):",
         "Was ==[released]==> August 29,",
         "Walter ==[bora:]==> The Walter",
-        "State ==[street]==> Preacher: Samuel"
+        "State ==[street]==> Preacher: Samuel",
+        "Club ==[atlético]==> Palermo: Club",
+        "The ==[club]==> has British"
     ]
 }

@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Sharon Karen",
-        "She",
         "Austral",
         "Cicindela",
         "Cicindela limbata,",
@@ -99,10 +97,11 @@
         "Cavern: Treak",
         "Castleton Site",
         "Saint-geours-d'auribat:",
-        "commune the"
+        "commune the",
+        "Lsu",
+        "Stadium: The"
     ],
     "edges": [
-        "Cyclone ==[asani:]==> Severe Cyclonic",
         "Was ==[the]==> strongest",
         "Silver(ii) ==[fluoride:]==> Silver(II) fluoride",
         "Rare ==[example]==> silver(II) compound",
@@ -251,6 +250,7 @@
         "National ==[show]==> Horse: The",
         "Treak ==[cliff]==> Cavern: Treak",
         "Part ==[the]==> Castleton Site",
-        "Saint-geours-d'auribat: ==[saint-geours-d'auribat]==> commune the"
+        "Saint-geours-d'auribat: ==[saint-geours-d'auribat]==> commune the",
+        "Lsu ==[soccer]==> Stadium: The"
     ]
 }

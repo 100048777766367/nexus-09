@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Part",
-        "Sharon",
         "Sharon Karen",
         "She",
         "Austral",
@@ -99,10 +97,11 @@
         "Horse: The",
         "Treak",
         "Cavern: Treak",
-        "Castleton Site"
+        "Castleton Site",
+        "Saint-geours-d'auribat:",
+        "commune the"
     ],
     "edges": [
-        "Had ==[previously]==> served",
         "Cyclone ==[asani:]==> Severe Cyclonic",
         "Was ==[the]==> strongest",
         "Silver(ii) ==[fluoride:]==> Silver(II) fluoride",
@@ -251,6 +250,7 @@
         "The ==[club]==> has British",
         "National ==[show]==> Horse: The",
         "Treak ==[cliff]==> Cavern: Treak",
-        "Part ==[the]==> Castleton Site"
+        "Part ==[the]==> Castleton Site",
+        "Saint-geours-d'auribat: ==[saint-geours-d'auribat]==> commune the"
     ]
 }

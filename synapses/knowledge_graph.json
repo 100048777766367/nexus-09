@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Brigid's",
-        "Prince Edward",
-        "Roman Catholic",
         "Part",
         "Sharon",
         "Sharon Karen",
@@ -99,11 +96,12 @@
         "Palermo: Club",
         "has British",
         "National",
-        "Horse: The"
+        "Horse: The",
+        "Treak",
+        "Cavern: Treak",
+        "Castleton Site"
     ],
     "edges": [
-        "William ==[emmett]==> Dever: William",
-        "Was ==[the]==> mayor Chicago",
         "Had ==[previously]==> served",
         "Cyclone ==[asani:]==> Severe Cyclonic",
         "Was ==[the]==> strongest",
@@ -251,6 +249,8 @@
         "State ==[street]==> Preacher: Samuel",
         "Club ==[atlético]==> Palermo: Club",
         "The ==[club]==> has British",
-        "National ==[show]==> Horse: The"
+        "National ==[show]==> Horse: The",
+        "Treak ==[cliff]==> Cavern: Treak",
+        "Part ==[the]==> Castleton Site"
     ]
 }

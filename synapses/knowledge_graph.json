@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Austral",
-        "Cicindela",
         "Cicindela limbata,",
         "Will",
         "(The Fresh",
@@ -99,10 +97,11 @@
         "Saint-geours-d'auribat:",
         "commune the",
         "Lsu",
-        "Stadium: The"
+        "Stadium: The",
+        "Gibson",
+        "The Gibson"
     ],
     "edges": [
-        "Was ==[the]==> strongest",
         "Silver(ii) ==[fluoride:]==> Silver(II) fluoride",
         "Rare ==[example]==> silver(II) compound",
         "Hurley ==[was]==> American politician",
@@ -251,6 +250,7 @@
         "Treak ==[cliff]==> Cavern: Treak",
         "Part ==[the]==> Castleton Site",
         "Saint-geours-d'auribat: ==[saint-geours-d'auribat]==> commune the",
-        "Lsu ==[soccer]==> Stadium: The"
+        "Lsu ==[soccer]==> Stadium: The",
+        "Gibson ==[eds-1275:]==> The Gibson"
     ]
 }

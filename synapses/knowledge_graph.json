@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Cicindela limbata,",
-        "Will",
         "(The Fresh",
         "Matataki",
         "known Piecing",
@@ -99,10 +97,11 @@
         "Lsu",
         "Stadium: The",
         "Gibson",
-        "The Gibson"
+        "The Gibson",
+        "170th",
+        "station (IND"
     ],
     "edges": [
-        "Silver(ii) ==[fluoride:]==> Silver(II) fluoride",
         "Rare ==[example]==> silver(II) compound",
         "Hurley ==[was]==> American politician",
         "Served ==[democratic]==> member for",
@@ -251,6 +250,7 @@
         "Part ==[the]==> Castleton Site",
         "Saint-geours-d'auribat: ==[saint-geours-d'auribat]==> commune the",
         "Lsu ==[soccer]==> Stadium: The",
-        "Gibson ==[eds-1275:]==> The Gibson"
+        "Gibson ==[eds-1275:]==> The Gibson",
+        "170th ==[street]==> station (IND"
     ]
 }

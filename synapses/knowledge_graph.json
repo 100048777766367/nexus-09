@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "known Piecing",
-        "Always",
-        "(album): Always",
-        "Was",
         "through Concord",
         "Refahiye",
         "Refahiye District",
@@ -99,11 +95,13 @@
         "170th",
         "station (IND",
         "Fexlamose:",
-        "investigational new"
+        "investigational new",
+        "Nonchalanta,",
+        "Nonchalanta ghost",
+        "Located",
+        "miles (26"
     ],
     "edges": [
-        "Hurley ==[was]==> American politician",
-        "Served ==[democratic]==> member for",
         "Wes ==[mccauley:]==> Wesley McCauley",
         "Teri ==[harrison:]==> Teri Marie",
         "Former ==[student]==> the University",
@@ -251,6 +249,8 @@
         "Lsu ==[soccer]==> Stadium: The",
         "Gibson ==[eds-1275:]==> The Gibson",
         "170th ==[street]==> station (IND",
-        "Fexlamose: ==[fexlamose]==> investigational new"
+        "Fexlamose: ==[fexlamose]==> investigational new",
+        "Nonchalanta, ==[kansas:]==> Nonchalanta ghost",
+        "Located ==[approximately]==> miles (26"
     ]
 }

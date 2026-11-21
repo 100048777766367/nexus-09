@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "through Concord",
-        "Refahiye",
-        "Refahiye District",
-        "the town",
         "1,808",
         "Château",
         "The Château",
@@ -99,11 +95,13 @@
         "Nonchalanta,",
         "Nonchalanta ghost",
         "Located",
-        "miles (26"
+        "miles (26",
+        "(luke",
+        "song): \"Up\"",
+        "Was",
+        "exclusively the"
     ],
     "edges": [
-        "Wes ==[mccauley:]==> Wesley McCauley",
-        "Teri ==[harrison:]==> Teri Marie",
         "Former ==[student]==> the University",
         "Sierra ==[cañones]==> Guara Natural",
         "Bigfin ==[reef]==> squid: Sepioteuthis",
@@ -251,6 +249,8 @@
         "170th ==[street]==> station (IND",
         "Fexlamose: ==[fexlamose]==> investigational new",
         "Nonchalanta, ==[kansas:]==> Nonchalanta ghost",
-        "Located ==[approximately]==> miles (26"
+        "Located ==[approximately]==> miles (26",
+        "(luke ==[bryan]==> song): \"Up\"",
+        "Was ==[included]==> exclusively the"
     ]
 }

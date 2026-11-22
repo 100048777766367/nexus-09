@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "The Château",
-        "Naliya",
         "railway station:",
         "NLC",
         "Vandicholai",
@@ -99,10 +97,11 @@
         "Was",
         "exclusively the",
         "High-grade",
-        "intraepithelial neoplasia:"
+        "intraepithelial neoplasia:",
+        "Gja5:",
+        "junction alpha-5"
     ],
     "edges": [
-        "Sierra ==[cañones]==> Guara Natural",
         "Bigfin ==[reef]==> squid: Sepioteuthis",
         "1882 ==[chicago]==> White Stockings",
         "Fermoy ==[barracks:]==> Fermoy Barracks",
@@ -251,6 +250,7 @@
         "Located ==[approximately]==> miles (26",
         "(luke ==[bryan]==> song): \"Up\"",
         "Was ==[included]==> exclusively the",
-        "High-grade ==[prostatic]==> intraepithelial neoplasia:"
+        "High-grade ==[prostatic]==> intraepithelial neoplasia:",
+        "Gja5: ==[gap]==> junction alpha-5"
     ]
 }

@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "railway station:",
-        "NLC",
-        "Vandicholai",
-        "Vandicholai Chinraasu",
         "Birdsong",
         "Birdsong 1993",
         "Faulks's",
@@ -99,11 +95,13 @@
         "High-grade",
         "intraepithelial neoplasia:",
         "Gja5:",
-        "junction alpha-5"
+        "junction alpha-5",
+        "Lalgarhi,",
+        "Lalgarhi village",
+        "2011,",
+        "population 936,"
     ],
     "edges": [
-        "Bigfin ==[reef]==> squid: Sepioteuthis",
-        "1882 ==[chicago]==> White Stockings",
         "Fermoy ==[barracks:]==> Fermoy Barracks",
         "Douglas ==[booth:]==> Douglas John",
         "First ==[came]==> public attention",
@@ -251,6 +249,8 @@
         "(luke ==[bryan]==> song): \"Up\"",
         "Was ==[included]==> exclusively the",
         "High-grade ==[prostatic]==> intraepithelial neoplasia:",
-        "Gja5: ==[gap]==> junction alpha-5"
+        "Gja5: ==[gap]==> junction alpha-5",
+        "Lalgarhi, ==[tundla:]==> Lalgarhi village",
+        "2011, ==[has]==> population 936,"
     ]
 }

@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "1,808",
-        "Château",
         "The Château",
         "Naliya",
         "railway station:",
@@ -99,10 +97,11 @@
         "(luke",
         "song): \"Up\"",
         "Was",
-        "exclusively the"
+        "exclusively the",
+        "High-grade",
+        "intraepithelial neoplasia:"
     ],
     "edges": [
-        "Former ==[student]==> the University",
         "Sierra ==[cañones]==> Guara Natural",
         "Bigfin ==[reef]==> squid: Sepioteuthis",
         "1882 ==[chicago]==> White Stockings",
@@ -251,6 +250,7 @@
         "Nonchalanta, ==[kansas:]==> Nonchalanta ghost",
         "Located ==[approximately]==> miles (26",
         "(luke ==[bryan]==> song): \"Up\"",
-        "Was ==[included]==> exclusively the"
+        "Was ==[included]==> exclusively the",
+        "High-grade ==[prostatic]==> intraepithelial neoplasia:"
     ]
 }

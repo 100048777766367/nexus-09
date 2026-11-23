@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Birdsong 1993",
-        "Faulks's",
         "novel",
         "Somebody's",
         "(film): Somebody's",
@@ -99,10 +97,11 @@
         "Lalgarhi village",
         "2011,",
         "population 936,",
-        "Race Asia"
+        "Race Asia",
+        "Afonso",
+        "Afonso Oliveira"
     ],
     "edges": [
-        "Douglas ==[booth:]==> Douglas John",
         "First ==[came]==> public attention",
         "Rebelle ==[(fragrance):]==> Rebelle the",
         "The ==[fragrance]==> was released",
@@ -251,6 +250,7 @@
         "Gja5: ==[gap]==> junction alpha-5",
         "Lalgarhi, ==[tundla:]==> Lalgarhi village",
         "2011, ==[has]==> population 936,",
-        "The ==[amazing]==> Race Asia"
+        "The ==[amazing]==> Race Asia",
+        "Afonso ==[eulálio:]==> Afonso Oliveira"
     ]
 }

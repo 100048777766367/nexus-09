@@ -1,6 +1,5 @@
 {
     "nodes": [
-        "Birdsong",
         "Birdsong 1993",
         "Faulks's",
         "novel",
@@ -99,10 +98,10 @@
         "Lalgarhi,",
         "Lalgarhi village",
         "2011,",
-        "population 936,"
+        "population 936,",
+        "Race Asia"
     ],
     "edges": [
-        "Fermoy ==[barracks:]==> Fermoy Barracks",
         "Douglas ==[booth:]==> Douglas John",
         "First ==[came]==> public attention",
         "Rebelle ==[(fragrance):]==> Rebelle the",
@@ -251,6 +250,7 @@
         "High-grade ==[prostatic]==> intraepithelial neoplasia:",
         "Gja5: ==[gap]==> junction alpha-5",
         "Lalgarhi, ==[tundla:]==> Lalgarhi village",
-        "2011, ==[has]==> population 936,"
+        "2011, ==[has]==> population 936,",
+        "The ==[amazing]==> Race Asia"
     ]
 }

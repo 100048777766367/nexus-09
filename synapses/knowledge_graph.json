@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "(film): Somebody's",
-        "Romain",
         "Romain Armand",
         "Science",
         "(Jonathan Thulin",
@@ -99,10 +97,11 @@
         "Afonso",
         "Afonso Oliveira",
         "Classics",
-        "(Glen Campbell"
+        "(Glen Campbell",
+        "Mejor",
+        "del mundo:"
     ],
     "edges": [
-        "Rebelle ==[(fragrance):]==> Rebelle the",
         "The ==[fragrance]==> was released",
         "Chaos ==[compilation:]==> Chaos Compilation",
         "Acanthoscurria ==[maga:]==> Acanthoscurria maga",
@@ -251,6 +250,7 @@
         "2011, ==[has]==> population 936,",
         "The ==[amazing]==> Race Asia",
         "Afonso ==[eulálio:]==> Afonso Oliveira",
-        "Classics ==[collection]==> (Glen Campbell"
+        "Classics ==[collection]==> (Glen Campbell",
+        "Mejor ==[papá]==> del mundo:"
     ]
 }

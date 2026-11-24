@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "novel",
-        "Somebody's",
         "(film): Somebody's",
         "Romain",
         "Romain Armand",
@@ -99,10 +97,11 @@
         "population 936,",
         "Race Asia",
         "Afonso",
-        "Afonso Oliveira"
+        "Afonso Oliveira",
+        "Classics",
+        "(Glen Campbell"
     ],
     "edges": [
-        "First ==[came]==> public attention",
         "Rebelle ==[(fragrance):]==> Rebelle the",
         "The ==[fragrance]==> was released",
         "Chaos ==[compilation:]==> Chaos Compilation",
@@ -251,6 +250,7 @@
         "Lalgarhi, ==[tundla:]==> Lalgarhi village",
         "2011, ==[has]==> population 936,",
         "The ==[amazing]==> Race Asia",
-        "Afonso ==[eulálio:]==> Afonso Oliveira"
+        "Afonso ==[eulálio:]==> Afonso Oliveira",
+        "Classics ==[collection]==> (Glen Campbell"
     ]
 }

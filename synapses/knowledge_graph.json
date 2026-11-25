@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "(Jonathan Thulin",
-        "Dream",
         "released the",
         "Nawab",
         "Nawab Nandini",
@@ -99,10 +97,11 @@
         "Mejor",
         "del mundo:",
         "Tilisolol:",
-        "beta blocker"
+        "beta blocker",
+        "Cloud",
+        "mansion located"
     ],
     "edges": [
-        "Chaos ==[compilation:]==> Chaos Compilation",
         "Acanthoscurria ==[maga:]==> Acanthoscurria maga",
         "Taanayel: ==[taanayel,]==> also transliterated",
         "Hervé ==[garel:]==> Hervé Garel",
@@ -251,6 +250,7 @@
         "Afonso ==[eulálio:]==> Afonso Oliveira",
         "Classics ==[collection]==> (Glen Campbell",
         "Mejor ==[papá]==> del mundo:",
-        "Tilisolol: ==[tilisolol]==> beta blocker"
+        "Tilisolol: ==[tilisolol]==> beta blocker",
+        "Cloud ==[heritage-listed]==> mansion located"
     ]
 }

@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Romain Armand",
-        "Science",
         "(Jonathan Thulin",
         "Dream",
         "released the",
@@ -99,10 +97,11 @@
         "Classics",
         "(Glen Campbell",
         "Mejor",
-        "del mundo:"
+        "del mundo:",
+        "Tilisolol:",
+        "beta blocker"
     ],
     "edges": [
-        "The ==[fragrance]==> was released",
         "Chaos ==[compilation:]==> Chaos Compilation",
         "Acanthoscurria ==[maga:]==> Acanthoscurria maga",
         "Taanayel: ==[taanayel,]==> also transliterated",
@@ -251,6 +250,7 @@
         "The ==[amazing]==> Race Asia",
         "Afonso ==[eulálio:]==> Afonso Oliveira",
         "Classics ==[collection]==> (Glen Campbell",
-        "Mejor ==[papá]==> del mundo:"
+        "Mejor ==[papá]==> del mundo:",
+        "Tilisolol: ==[tilisolol]==> beta blocker"
     ]
 }

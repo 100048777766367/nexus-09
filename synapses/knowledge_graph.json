@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "released the",
-        "Nawab",
-        "Nawab Nandini",
-        "Love",
         "(Tina Turner",
         "The",
         "Back (Bitch",
@@ -99,11 +95,13 @@
         "Tilisolol:",
         "beta blocker",
         "Cloud",
-        "mansion located"
+        "mansion located",
+        "Mario",
+        "(baseball): Mario",
+        "Played",
+        "seasons from"
     ],
     "edges": [
-        "Acanthoscurria ==[maga:]==> Acanthoscurria maga",
-        "Taanayel: ==[taanayel,]==> also transliterated",
         "Hervé ==[garel:]==> Hervé Garel",
         "Most ==[notably]==> won the",
         "Jan ==[kanthak:]==> Jan Kanthak",
@@ -251,6 +249,8 @@
         "Classics ==[collection]==> (Glen Campbell",
         "Mejor ==[papá]==> del mundo:",
         "Tilisolol: ==[tilisolol]==> beta blocker",
-        "Cloud ==[heritage-listed]==> mansion located"
+        "Cloud ==[heritage-listed]==> mansion located",
+        "Mario ==[ramírez]==> (baseball): Mario",
+        "Played ==[six]==> seasons from"
     ]
 }

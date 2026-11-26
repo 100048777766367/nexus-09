@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "(Tina Turner",
-        "The",
         "Back (Bitch",
         "Geographical",
         "Geographical kaleidoscope",
@@ -99,10 +97,11 @@
         "Mario",
         "(baseball): Mario",
         "Played",
-        "seasons from"
+        "seasons from",
+        "Run",
+        "Your Life"
     ],
     "edges": [
-        "Hervé ==[garel:]==> Hervé Garel",
         "Most ==[notably]==> won the",
         "Jan ==[kanthak:]==> Jan Kanthak",
         "The ==[son]==> Andrzej Kanthak",
@@ -251,6 +250,7 @@
         "Tilisolol: ==[tilisolol]==> beta blocker",
         "Cloud ==[heritage-listed]==> mansion located",
         "Mario ==[ramírez]==> (baseball): Mario",
-        "Played ==[six]==> seasons from"
+        "Played ==[six]==> seasons from",
+        "Run ==[for]==> Your Life"
     ]
 }

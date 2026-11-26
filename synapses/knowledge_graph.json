@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Back (Bitch",
-        "Geographical",
-        "Geographical kaleidoscope",
-        "Juan",
         "García Treviño:",
         "Most",
         "known for",
@@ -99,11 +95,13 @@
         "Played",
         "seasons from",
         "Run",
-        "Your Life"
+        "Your Life",
+        "Westmoreland",
+        "Act 1792:",
+        "Authorised",
+        "construc"
     ],
     "edges": [
-        "Most ==[notably]==> won the",
-        "Jan ==[kanthak:]==> Jan Kanthak",
         "The ==[son]==> Andrzej Kanthak",
         "Priceless ==[(frankie]==> album): Priceless",
         "Marybeth ==[peters:]==> Marybeth Peters",
@@ -251,6 +249,8 @@
         "Cloud ==[heritage-listed]==> mansion located",
         "Mario ==[ramírez]==> (baseball): Mario",
         "Played ==[six]==> seasons from",
-        "Run ==[for]==> Your Life"
+        "Run ==[for]==> Your Life",
+        "Westmoreland ==[canals]==> Act 1792:",
+        "Authorised ==[the]==> construc"
     ]
 }

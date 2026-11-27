@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "known for",
-        "Suzi",
         "Susan Kay",
         "she scored",
         "Sold",
@@ -99,10 +97,11 @@
         "Authorised",
         "construc",
         "Bettany's",
-        "Bettany's Book"
+        "Bettany's Book",
+        "Ian",
+        "(artist): Ian"
     ],
     "edges": [
-        "Priceless ==[(frankie]==> album): Priceless",
         "Marybeth ==[peters:]==> Marybeth Peters",
         "Nancy ==[grant]==> (All Children):",
         "Finnish ==[motorcycle]==> Grand Prix:",
@@ -251,6 +250,7 @@
         "Run ==[for]==> Your Life",
         "Westmoreland ==[canals]==> Act 1792:",
         "Authorised ==[the]==> construc",
-        "Bettany's ==[book:]==> Bettany's Book"
+        "Bettany's ==[book:]==> Bettany's Book",
+        "Ian ==[berry]==> (artist): Ian"
     ]
 }

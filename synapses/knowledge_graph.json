@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Sold",
-        "film): Sold",
-        "One",
-        "(Deborah Cox",
         "Arista Records",
         "Mount",
         "Mount Democrat",
@@ -99,11 +95,13 @@
         "Ian",
         "(artist): Ian",
         "Lukas",
-        "Lukas Werro"
+        "Lukas Werro",
+        "Interior",
+        "Palace: The",
+        "Houses",
+        "Ministry Int"
     ],
     "edges": [
-        "Nancy ==[grant]==> (All Children):",
-        "Finnish ==[motorcycle]==> Grand Prix:",
         "Betsiboka ==[river:]==> The Betsiboka",
         "Flows ==[northwestward]==> and empti",
         "Garden ==[city–mitchel]==> Field Secondary:",
@@ -251,6 +249,8 @@
         "Authorised ==[the]==> construc",
         "Bettany's ==[book:]==> Bettany's Book",
         "Ian ==[berry]==> (artist): Ian",
-        "Lukas ==[werro:]==> Lukas Werro"
+        "Lukas ==[werro:]==> Lukas Werro",
+        "Interior ==[ministry]==> Palace: The",
+        "Houses ==[the]==> Ministry Int"
     ]
 }

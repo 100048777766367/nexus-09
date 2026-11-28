@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Susan Kay",
-        "she scored",
         "Sold",
         "film): Sold",
         "One",
@@ -99,10 +97,11 @@
         "Bettany's",
         "Bettany's Book",
         "Ian",
-        "(artist): Ian"
+        "(artist): Ian",
+        "Lukas",
+        "Lukas Werro"
     ],
     "edges": [
-        "Marybeth ==[peters:]==> Marybeth Peters",
         "Nancy ==[grant]==> (All Children):",
         "Finnish ==[motorcycle]==> Grand Prix:",
         "Betsiboka ==[river:]==> The Betsiboka",
@@ -251,6 +250,7 @@
         "Westmoreland ==[canals]==> Act 1792:",
         "Authorised ==[the]==> construc",
         "Bettany's ==[book:]==> Bettany's Book",
-        "Ian ==[berry]==> (artist): Ian"
+        "Ian ==[berry]==> (artist): Ian",
+        "Lukas ==[werro:]==> Lukas Werro"
     ]
 }
